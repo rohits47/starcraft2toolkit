@@ -15,20 +15,8 @@ class Starcraft2Toolkit:
         pass
 
 
-class ToolkitCLI:
-    """
-    ToolkitCLI
-    """
-
-    def __init__(self):
-        pass
-
-    def run(self):
-        pass
-
-
 def main():
-    fire.Fire(ToolkitCLI)
+    fire.Fire(Starcraft2Toolkit)
 
 
 if __name__ == '__main__':
