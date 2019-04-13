@@ -7,3 +7,6 @@
 [submodule "s2protocol"]
 	path = s2protocol
 	url = https://github.com/Blizzard/s2protocol.git
+[submodule "s2client-proto"]
+	path = s2client-proto
+	url = https://github.com/Blizzard/s2client-proto.git
