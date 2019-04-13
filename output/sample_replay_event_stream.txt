@@ -1,0 +1,1511 @@
+Release 4.8.4.73286
+1v1 on Port Aleksander LE at 2019-04-12 15:42:58
+
+Team 1: Player 1 - Floyd (Protoss)
+  Player 1 - Floyd (Protoss)
+Team 2: Player 2 - grEEngLade (Terran)
+  Player 2 - grEEngLade (Terran)
+
+--------------------------
+
+
+00.02	Floyd           SelectionEvent['Nexus [3100001]']
+00.03	grEEngLade      SelectionEvent['OrbitalCommand [3440001]']
+00.03	grEEngLade      Ability (1360) - TrainSCV
+00.03	Floyd           Ability (15E0) - TrainProbe
+00.03	Floyd           Ability (5980); Target: Nexus [03100001]; Location: (145.5, 24.5, 49088)
+00.12	Floyd           Ability (15E0) - TrainProbe
+00.14	grEEngLade      Right Click; Location: (35.6767578125, 108.662109375, 49109)
+00.20	grEEngLade      Ability (1360) - TrainSCV
+00.26	Floyd           SelectionEvent['Probe [3340001]']
+00.27	Floyd           Right Click; Location: (144.998779296875, 29.997314453125, 49091)
+00.27	Floyd           Right Click; Location: (145.141357421875, 29.830810546875, 49091)
+00.28	grEEngLade      SelectionEvent['SCV [37C0001]']
+00.29	grEEngLade      Ability (1021) - BuildSupplyDepot; Location: (36.0, 109.0, 49088)
+00.29	grEEngLade      SelectionEvent['SCV [37C0001]']
+00.30	Floyd           Right Click; Location: (146.361328125, 28.5498046875, 49091)
+00.31	grEEngLade      Right Click; Location: (38.22802734375, 108.20654296875, 49110)
+00.31	Floyd           Ability (1541) - BuildPylon; Location: (146.0, 28.0, 49091)
+00.32	Floyd           Right Click; Location: (151.99462890625, 25.91552734375, 49091)
+00.33	Floyd           Right Click; Target: MineralField [02800001]; Location: (152.0, 24.5, 49088)
+00.33	grEEngLade      Right Click; Target: MineralField [02080001]; Location: (24.0, 123.5, 49088)
+00.33	Floyd           SelectionEvent['Nexus [3100001]']
+00.39	Floyd           Ability (15E0) - TrainProbe
+00.39	grEEngLade      Ability (1360) - TrainSCV
+00.42	Floyd           SelectionEvent['Pylon [3880001]']
+00.42	grEEngLade      SelectionEvent['SCV [3640001]']
+00.42	Floyd           SelectionEvent['Nexus [3100001]']
+00.43	grEEngLade      Ability (1022) - BuildRefinery; Target: VespeneGeyser [02900001]; Location: (23.5, 120.5, 49088)
+00.48	Floyd           SelectionEvent['Pylon [3880001]']
+00.48	Floyd           SelectionEvent['Nexus [3100001]']
+00.51	Floyd           SelectionEvent['Pylon [3880001]']
+00.51	Floyd           SelectionEvent['Nexus [3100001]']
+00.53	Floyd           SelectionEvent['Probe [3340001]']
+00.54	grEEngLade      Ability (1360) - TrainSCV
+00.54	Floyd           Right Click; Location: (148.030517578125, 30.453369140625, 49091)
+00.57	Floyd           Ability (1543) - BuildGateway; Location: (148.5, 30.5, 49091)
+00.57	grEEngLade      SelectionEvent['SCV [3480001]', 'SCV [34C0001]', 'SCV [3500001]', 'SCV [3540001]', 'SCV [3580001]', 'SCV [35C0001]', 'SCV [3600001]', 'SCV [3680001]', 'SCV [36C0001]', 'SCV [3700001]', 'SCV [3740001]', 'SCV [38C0001]', 'SCV [3980001]']
+00.57	Floyd           Right Click; Target: MineralField [02800001]; Location: (152.0, 24.5, 49088)
+00.58	grEEngLade      SelectionEvent['SCV [3480001]', 'SCV [34C0001]', 'SCV [3500001]', 'SCV [3540001]', 'SCV [3580001]', 'SCV [35C0001]', 'SCV [3600001]', 'SCV [3680001]', 'SCV [36C0001]', 'SCV [3700001]', 'SCV [3740001]']
+00.58	Floyd           SelectionEvent['Nexus [3100001]']
+00.59	grEEngLade      SelectionEvent['SCV [3480001]', 'SCV [34C0001]', 'SCV [3500001]', 'SCV [3540001]', 'SCV [3580001]', 'SCV [35C0001]', 'SCV [3600001]', 'SCV [3640001]', 'SCV [3680001]', 'SCV [36C0001]', 'SCV [3700001]', 'SCV [3740001]', 'SCV [38C0001]', 'SCV [3980001]']
+01.00	grEEngLade      SelectionEvent[]
+01.04	Floyd           SelectionEvent['Probe [3280001]']
+01.05	Floyd           Right Click; Location: (150.0185546875, 26.809326171875, 49091)
+01.05	Floyd           Ability (1542) - BuildAssimilator; Target: VespeneGeyser [017C0001]; Location: (152.5, 27.5, 49088)
+01.05	grEEngLade      Ability (1023) - BuildBarracks; Location: (38.5, 108.5, 49094)
+01.06	grEEngLade      SelectionEvent['Barracks [3A00001]']
+01.07	Floyd           Right Click; Target: MineralField [02800001]; Location: (152.0, 24.5, 49088)
+01.07	Floyd           SelectionEvent['Nexus [3100001]']
+01.08	grEEngLade      SelectionEvent['Barracks [3A00001]']
+01.08	grEEngLade      SelectionEvent['Barracks [3A00001]']
+01.10	grEEngLade      Right Click; Location: (36.5654296875, 105.566650390625, 47204)
+01.11	grEEngLade      SelectionEvent['SupplyDepotLowered [3840001]']
+01.11	grEEngLade      SelectionEvent['SupplyDepotLowered [3840001]']
+01.11	grEEngLade      SelectionEvent['SupplyDepotLowered [3840001]']
+01.11	grEEngLade      SelectionEvent['SupplyDepotLowered [3840001]']
+01.12	grEEngLade      Ability (13A0) - LowerSupplyDepot
+01.12	grEEngLade      SelectionEvent['SupplyDepotLowered [3840001]']
+01.12	grEEngLade      SelectionEvent['SupplyDepotLowered [3840001]']
+01.13	grEEngLade      SelectionEvent['SCV [3540001]', 'SCV [35C0001]']
+01.13	grEEngLade      Right Click; Target: Refinery [03940001]; Location: (23.5, 120.5, 49088)
+01.15	grEEngLade      Ability (1360) - TrainSCV
+01.19	Floyd           Ability (15E0) - TrainProbe
+01.24	Floyd           SelectionEvent['WarpGate [39C0001]']
+01.24	Floyd           SelectionEvent['Nexus [3100001]']
+01.24	grEEngLade      Right Click; Location: (38.02490234375, 90.355712890625, 40900)
+01.26	grEEngLade      Right Click; Location: (38.005615234375, 90.552978515625, 40900)
+01.27	Floyd           SelectionEvent['Probe [3280001]']
+01.27	grEEngLade      Right Click; Location: (38.02099609375, 91.4443359375, 40900)
+01.28	grEEngLade      Right Click; Location: (38.14208984375, 92.20068359375, 40900)
+01.29	Floyd           SelectionEvent['Nexus [3100001]']
+01.31	grEEngLade      Ability (1360) - TrainSCV
+01.31	Floyd           Ability (5980); Target: Nexus [03100001]; Location: (145.5, 24.5, 49088)
+01.34	Floyd           SelectionEvent['Probe [3200001]', 'Probe [3280001]']
+01.35	Floyd           Right Click; Target: Assimilator [03A40001]; Location: (152.5, 27.5, 49088)
+01.37	Floyd           SelectionEvent['Probe [32C0001]']
+01.37	Floyd           Right Click; Location: (145.724365234375, 31.72314453125, 49091)
+01.38	Floyd           Right Click; Location: (145.70556640625, 31.625244140625, 49091)
+01.38	Floyd           Right Click; Location: (145.66943359375, 31.5517578125, 49091)
+01.40	Floyd           Right Click; Location: (142.86376953125, 32.643310546875, 49091)
+01.41	Floyd           Right Click; Location: (134.081787109375, 38.903076171875, 49091)
+01.43	Floyd           Right Click; Location: (145.881591796875, 54.243408203125, 40900)
+01.44	Floyd           SelectionEvent['Nexus [3100001]']
+01.45	Floyd           Ability (15E0) - TrainProbe
+01.48	Floyd           SelectionEvent['Probe [32C0001]']
+01.49	Floyd           Right Click; Location: (146.65478515625, 51.7451171875, 40900)
+01.51	grEEngLade      SelectionEvent['SCV [37C0001]']
+01.52	grEEngLade      Right Click; Target: None [00000000]; Location: (23.0, 95.5, 40896)
+01.53	grEEngLade      Right Click; Location: (29.74755859375, 95.572509765625, 40900)
+01.55	grEEngLade      SelectionEvent['SCV [3480001]', 'SCV [34C0001]', 'SCV [3500001]', 'SCV [3580001]', 'SCV [35C0001]', 'SCV [3600001]', 'SCV [3640001]', 'SCV [3680001]', 'SCV [36C0001]', 'SCV [3700001]', 'SCV [3740001]', 'SCV [38C0001]', 'SCV [3980001]', 'SCV [3AC0001]', 'SCV [3B00001]', 'SCV [3BC0001]']
+01.56	grEEngLade      SelectionEvent[]
+01.57	Floyd           Ability (1540) - BuildNexus; Location: (146.5, 52.5, 40900)
+01.59	Floyd           Right Click; Target: Assimilator [03A40001]; Location: (152.5, 27.5, 49088)
+02.00	Floyd           SelectionEvent['Nexus [3100001]']
+02.09	Floyd           SelectionEvent['Probe [3900001]']
+02.09	Floyd           Right Click; Target: Assimilator [03A40001]; Location: (152.5, 27.5, 49088)
+02.10	Floyd           Right Click; Location: (151.68798828125, 23.1259765625, 49091)
+02.10	Floyd           Right Click; Target: MineralField [02800001]; Location: (152.0, 24.5, 49088)
+02.11	Floyd           SelectionEvent['Nexus [3100001]']
+02.12	Floyd           Ability (15E0) - TrainProbe
+02.12	Floyd           SelectionEvent['WarpGate [39C0001]']
+02.12	grEEngLade      Ability (13E1) - TrainReaper
+02.13	grEEngLade      Ability (1C60) - UpgradeToOrbitalCommand
+02.14	Floyd           SelectionEvent['Nexus [3100001]']
+02.15	Floyd           SelectionEvent['Probe [3900001]']
+02.16	Floyd           Right Click; Location: (144.785400390625, 31.686767578125, 49091)
+02.16	Floyd           Right Click; Location: (144.7890625, 30.923095703125, 49091)
+02.16	Floyd           Right Click; Location: (144.87255859375, 30.944580078125, 49091)
+02.18	Floyd           Ability (154E) - BuildCyberneticsCore; Location: (145.5, 30.5, 49091)
+02.20	Floyd           Right Click; Location: (152.740478515625, 25.60498046875, 49091)
+02.20	Floyd           Right Click; Target: MineralField [02800001]; Location: (152.0, 24.5, 49088)
+02.21	Floyd           SelectionEvent['Nexus [3100001]']
+02.23	Floyd           SelectionEvent['Nexus [3C00001]']
+02.26	grEEngLade      SelectionEvent['SCV [3480001]', 'SCV [34C0001]', 'SCV [3500001]', 'SCV [3580001]', 'SCV [3600001]', 'SCV [3680001]', 'SCV [36C0001]', 'SCV [3700001]', 'SCV [3740001]', 'SCV [38C0001]', 'SCV [3980001]', 'SCV [3AC0001]', 'SCV [3B00001]', 'SCV [3BC0001]', 'SCV [3C80001]']
+02.27	Floyd           SelectionEvent['Nexus [3100001]']
+02.28	Floyd           SelectionEvent['WarpGate [39C0001]']
+02.28	Floyd           Ability (1580) - TrainZealot
+02.28	grEEngLade      SelectionEvent['SCV [3540001]']
+02.29	grEEngLade      SelectionEvent['SCV [35C0001]', 'SCV [3680001]', 'SCV [3C80001]']
+02.29	grEEngLade      SelectionEvent[]
+02.30	Floyd           SelectionEvent['Nexus [3100001]']
+02.31	grEEngLade      SelectionEvent['SCV [37C0001]']
+02.31	grEEngLade      Ability (1020) - BuildCommandCenter; Location: (29.5, 95.5, 40900)
+02.32	grEEngLade      Right Click; Target: LabMineralField [02300001]; Location: (23.0, 95.5, 40896)
+02.33	Floyd           SelectionEvent['CyberneticsCore [3CC0001]']
+02.33	grEEngLade      SelectionEvent['OrbitalCommand [3D40001]']
+02.33	grEEngLade      SelectionEvent['OrbitalCommand [3D40001]']
+02.33	grEEngLade      SelectionEvent['OrbitalCommand [3D40001]']
+02.33	grEEngLade      SelectionEvent['OrbitalCommand [3D40001]']
+02.35	Floyd           SelectionEvent['Probe [31C0001]']
+02.35	Floyd           Right Click; Location: (151.576171875, 17.909423828125, 49091)
+02.36	Floyd           Right Click; Location: (151.60009765625, 17.986572265625, 49091)
+02.36	Floyd           Right Click; Location: (151.56494140625, 18.102783203125, 49091)
+02.36	grEEngLade      SelectionEvent[]
+02.36	Floyd           Ability (1541) - BuildPylon; Location: (152.0, 18.0, 49082)
+02.37	grEEngLade      Right Click; Target: None [00000000]; Location: (28.0, 101.5, 40896)
+02.38	Floyd           Right Click; Target: MineralField750 [025C0001]; Location: (152.0, 20.5, 49088)
+02.39	Floyd           SelectionEvent['Nexus [3100001]']
+02.39	grEEngLade      SelectionEvent['SCV [3500001]']
+02.39	grEEngLade      Right Click; Location: (33.510009765625, 127.857177734375, 49091)
+02.40	grEEngLade      Ability (1022) - BuildRefinery; Target: VespeneGeyser [01E40001]; Location: (34.5, 130.5, 49088)
+02.41	Floyd           SelectionEvent['Nexus [3C00001]']
+02.42	grEEngLade      SelectionEvent['SCV [3700001]']
+02.43	grEEngLade      Right Click; Location: (41.4189453125, 110.888427734375, 49091)
+02.45	grEEngLade      Right Click; Location: (39.153564453125, 105.669189453125, 49111)
+02.47	Floyd           SelectionEvent['Nexus [3100001]']
+02.47	Floyd           SelectionEvent['WarpGate [39C0001]']
+02.48	grEEngLade      Ability (1021) - BuildSupplyDepot; Location: (39.0, 106.0, 49088)
+02.48	grEEngLade      SelectionEvent['OrbitalCommand [3440001]']
+02.48	Floyd           SelectionEvent['Nexus [3100001]']
+02.49	Floyd           Ability (15E0) - TrainProbe
+02.49	grEEngLade      Right Click; Location: (39.301025390625, 113.25439453125, 49091)
+02.51	Floyd           SelectionEvent['WarpGate [39C0001]']
+02.51	grEEngLade      Ability (B40) - CalldownMULE; Target: MineralField750 [003C0001]; Location: (26.0, 129.5, 49088)
+02.53	grEEngLade      Ability (1360) - TrainSCV
+02.54	Floyd           SelectionEvent['Nexus [3100001]']
+02.57	grEEngLade      SelectionEvent['Barracks [3A00001]']
+02.58	Floyd           SelectionEvent['Probe [3340001]']
+02.59	Floyd           SelectionEvent['CyberneticsCore [3CC0001]']
+02.59	grEEngLade      Ability (1261) - BuildBarracksReactor; Location: (38.5, 108.5, 49092)
+03.00	Floyd           SelectionEvent['Probe [3140001]']
+03.01	Floyd           Right Click; Location: (152.152587890625, 31.254150390625, 49091)
+03.01	grEEngLade      SelectionEvent['Reaper [3E80001]']
+03.01	Floyd           Ability (1543) - BuildGateway; Location: (151.5, 30.5, 49091)
+03.02	grEEngLade      SelectionEvent['Reaper [3E80001]']
+03.02	grEEngLade      SelectionEvent['Reaper [3E80001]']
+03.02	grEEngLade      SelectionEvent['Reaper [3E80001]']
+03.03	Floyd           Right Click; Target: MineralField [02800001]; Location: (152.0, 24.5, 49088)
+03.04	Floyd           SelectionEvent['Nexus [3100001]']
+03.05	Floyd           SelectionEvent['WarpGate [39C0001]']
+03.05	Floyd           Right Click; Location: (146.235595703125, 34.27734375, 49091)
+03.07	Floyd           SelectionEvent['CyberneticsCore [3CC0001]']
+03.07	grEEngLade      Right Click; Location: (38.0009765625, 91.5283203125, 40900)
+03.08	grEEngLade      Ability (1360) - TrainSCV
+03.09	Floyd           Ability (1D86) - ResearchWarpGate
+03.10	grEEngLade      Right Click; Location: (151.607421875, 55.578857421875, 40896)
+03.10	Floyd           Ability (5980); Target: CyberneticsCore [03CC0001]; Location: (145.5, 30.5, 49088)
+03.10	grEEngLade      Right Click; Location: (149.79638671875, 31.63134765625, 49088)
+03.12	Floyd           SelectionEvent['Nexus [3C00001]']
+03.15	grEEngLade      SelectionEvent['SCV [3740001]', 'SCV [38C0001]']
+03.15	Floyd           SelectionEvent['Nexus [3100001]']
+03.16	grEEngLade      Right Click; Target: Refinery [03DC0001]; Location: (34.5, 130.5, 49088)
+03.18	Floyd           SelectionEvent['WarpGate [39C0001]']
+03.19	Floyd           Ability (1581) - TrainStalker
+03.20	Floyd           SelectionEvent['Nexus [3100001]']
+03.20	grEEngLade      Ability (1360) - TrainSCV
+03.21	Floyd           SelectionEvent['Probe [3140001]']
+03.22	Floyd           Right Click; Target: VespeneGeyser [02100001]; Location: (141.5, 17.5, 49088)
+03.22	Floyd           Ability (1542) - BuildAssimilator; Target: VespeneGeyser [02100001]; Location: (141.5, 17.5, 49088)
+03.23	grEEngLade      SelectionEvent['SCV [3980001]']
+03.24	grEEngLade      Ability (102A) - BuildFactory; Location: (34.5, 122.5, 49091)
+03.25	grEEngLade      Right Click; Target: MineralField [01740001]; Location: (31.0, 129.5, 49088)
+03.26	Floyd           Right Click; Target: MineralField [02700001]; Location: (145.0, 18.5, 49088)
+03.26	Floyd           SelectionEvent['Nexus [3100001]']
+03.26	Floyd           Ability (15E0) - TrainProbe
+03.28	grEEngLade      SelectionEvent['Factory [4080001]']
+03.29	Floyd           SelectionEvent['Zealot [3F80001]']
+03.29	grEEngLade      SelectionEvent['Factory [4080001]']
+03.29	grEEngLade      SelectionEvent['Factory [4080001]']
+03.29	grEEngLade      SelectionEvent['Factory [4080001]']
+03.31	grEEngLade      Right Click; Location: (38.024169921875, 91.50048828125, 40900)
+03.31	Floyd           Ability (5A0) - Attack; Target: WarpGate [039C0001]; Location: (148.5, 30.5, 49088)
+03.34	Floyd           Right Click; Location: (139.787109375, 57.881103515625, 40900)
+03.36	Floyd           SelectionEvent['Nexus [3C00001]']
+03.37	grEEngLade      SelectionEvent['SCV [3700001]']
+03.37	Floyd           Ability (15E0) - TrainProbe
+03.38	grEEngLade      Ability (1023) - BuildBarracks; Location: (38.5, 111.5, 49082)
+03.38	Floyd           Ability (5980); Target: Nexus [03C00001]; Location: (146.5, 52.5, 40896)
+03.39	Floyd           Right Click; Target: LabMineralField750 [016C0001]; Location: (153.0, 48.5, 40896)
+03.39	grEEngLade      Right Click; Target: MineralField750 [02640001]; Location: (24.0, 127.5, 49088)
+03.41	Floyd           SelectionEvent['WarpGate [39C0001]']
+03.42	grEEngLade      SelectionEvent['Barracks [40C0002]']
+03.42	grEEngLade      SelectionEvent['Barracks [40C0002]']
+03.42	grEEngLade      SelectionEvent['Barracks [40C0002]']
+03.42	grEEngLade      SelectionEvent['Barracks [40C0002]']
+03.43	Floyd           SelectionEvent['Nexus [3100001]']
+03.44	grEEngLade      Right Click; Location: (38.260986328125, 91.32763671875, 40900)
+03.44	Floyd           Ability (15E0) - TrainProbe
+03.45	Floyd           Right Click; Location: (139.280517578125, 29.98388671875, 49091)
+03.45	grEEngLade      Right Click; Location: (150.768310546875, 52.992919921875, 40900)
+03.46	grEEngLade      Right Click; Location: (146.786865234375, 45.15283203125, 40900)
+03.47	Floyd           Right Click; Target: MineralField [02800001]; Location: (152.0, 24.5, 49088)
+03.48	grEEngLade      Right Click; Location: (149.409423828125, 39.783935546875, 49116)
+03.48	Floyd           SelectionEvent['Zealot [3F80001]']
+03.49	Floyd           Ability (5A0) - Attack; Location: (143.71484375, 57.30322265625, 40900)
+03.49	grEEngLade      Ability (1360) - TrainSCV
+03.50	Floyd           Right Click; Location: (149.422119140625, 36.999267578125, 49091)
+03.51	Floyd           SelectionEvent['WarpGate [39C0001]']
+03.52	Floyd           SelectionEvent['Zealot [3F80001]']
+03.53	Floyd           Right Click; Location: (150.12744140625, 34.270751953125, 49091)
+03.53	grEEngLade      SelectionEvent['WarpGate [3F00001]']
+03.53	grEEngLade      Right Click; Location: (147.757568359375, 34.084716796875, 49091)
+03.54	Floyd           Right Click; Location: (150.03076171875, 36.73583984375, 49091)
+03.54	grEEngLade      Right Click; Location: (140.727294921875, 30.738037109375, 49091)
+03.54	grEEngLade      Right Click; Location: (141.026123046875, 30.723388671875, 49091)
+03.54	grEEngLade      Right Click; Location: (141.163818359375, 30.67919921875, 49091)
+03.55	Floyd           SelectionEvent['Nexus [3C00001]']
+03.55	Floyd           Ability (15E0) - TrainProbe
+03.56	grEEngLade      Right Click; Location: (139.85693359375, 26.02001953125, 49091)
+03.56	grEEngLade      Right Click; Location: (139.751953125, 24.508544921875, 49091)
+03.56	grEEngLade      Right Click; Location: (140.060302734375, 23.84912109375, 49091)
+03.56	grEEngLade      Right Click; Location: (140.78173828125, 22.989501953125, 49091)
+03.57	grEEngLade      Right Click; Location: (141.120361328125, 22.405029296875, 49091)
+03.57	Floyd           SelectionEvent['Zealot [3F80001]']
+03.57	grEEngLade      Right Click; Location: (142.20458984375, 21.75732421875, 49091)
+03.57	grEEngLade      Right Click; Location: (142.51806640625, 21.439208984375, 49091)
+03.58	grEEngLade      Right Click; Location: (143.1083984375, 20.939697265625, 49091)
+03.58	Floyd           Ability (5A0) - Attack; Location: (140.705078125, 26.1669921875, 49091)
+03.58	grEEngLade      Right Click; Location: (143.3134765625, 20.826171875, 49091)
+03.58	grEEngLade      Ability (4EC0) - AdeptShadePhaseShiftCancel; Location: (148.328369140625, 20.43359375, 49091)
+03.59	Floyd           SelectionEvent['WarpGate [39C0001]']
+04.00	grEEngLade      Right Click; Location: (138.798828125, 22.035400390625, 49091)
+04.00	Floyd           SelectionEvent['Zealot [3F80001]']
+04.00	grEEngLade      Ability (5A0) - Attack; Location: (143.001708984375, 21.6708984375, 49091)
+04.01	Floyd           Right Click; Location: (139.80810546875, 20.3642578125, 49091)
+04.02	Floyd           SelectionEvent['Stalker [4240001]']
+04.02	grEEngLade      Ability (13E0) - TrainMarine
+04.02	Floyd           Right Click; Location: (139.21826171875, 20.223388671875, 49091)
+04.03	grEEngLade      Ability (1360) - TrainSCV
+04.03	grEEngLade      Right Click; Location: (136.080322265625, 21.583740234375, 49091)
+04.04	grEEngLade      Right Click; Location: (130.170654296875, 23.66259765625, 49091)
+04.05	grEEngLade      Right Click; Location: (127.807373046875, 24.16162109375, 49091)
+04.06	Floyd           Right Click; Location: (134.141845703125, 25.505126953125, 49091)
+04.06	grEEngLade      Right Click; Location: (129.89013671875, 36.0419921875, 49093)
+04.07	Floyd           SelectionEvent['WarpGate [3F00001]']
+04.07	Floyd           SelectionEvent['WarpGate [39C0001]']
+04.07	Floyd           Ability (1581) - TrainStalker
+04.08	grEEngLade      Right Click; Location: (130.005126953125, 64.807373046875, 40907)
+04.09	Floyd           SelectionEvent['WarpGate [3F00001]']
+04.09	Floyd           Ability (1585) - TrainSentry
+04.10	Floyd           SelectionEvent['Stalker [4240001]', 'Zealot [3F80001]']
+04.11	Floyd           Ability (5A0) - Attack; Location: (140.713134765625, 46.091796875, 40922)
+04.12	grEEngLade      Right Click; Location: (151.154541015625, 80.90771484375, 32704)
+04.13	Floyd           SelectionEvent['Nexus [3C00001]']
+04.13	grEEngLade      Right Click; Location: (147.080078125, 105.315673828125, 40912)
+04.14	Floyd           Ability (15E0) - TrainProbe
+04.15	grEEngLade      SelectionEvent[]
+04.16	grEEngLade      Ability (1C60) - UpgradeToOrbitalCommand
+04.17	Floyd           SelectionEvent['Nexus [3100001]']
+04.18	grEEngLade      Ability (1360) - TrainSCV
+04.19	Floyd           SelectionEvent['Probe [31C0001]', 'Probe [3800001]', 'Probe [3B40001]']
+04.19	grEEngLade      Right Click; Target: LabMineralField [013C0001]; Location: (28.0, 101.5, 40896)
+04.19	grEEngLade      Ability (B40) - CalldownMULE; Target: LabMineralField [013C0001]; Location: (28.0, 101.5, 40896)
+04.19	Floyd           Right Click; Location: (143.090576171875, 19.575439453125, 49091)
+04.20	Floyd           Right Click; Target: Assimilator [04000002]; Location: (141.5, 17.5, 49088)
+04.20	grEEngLade      SelectionEvent[]
+04.20	grEEngLade      Right Click; Target: LabMineralField [02600001]; Location: (23.0, 97.5, 40896)
+04.20	Floyd           SelectionEvent['Nexus [3100001]']
+04.21	Floyd           Ability (15E0) - TrainProbe
+04.22	Floyd           Right Click; Target: LabMineralField750 [00880001]; Location: (149.0, 45.5, 40896)
+04.23	Floyd           SelectionEvent['Stalker [4240001]', 'Zealot [3F80001]']
+04.24	Floyd           Ability (5A0) - Attack; Location: (140.36279296875, 56.08544921875, 40900)
+04.26	grEEngLade      SelectionEvent['SCV [4340002]']
+04.28	Floyd           SelectionEvent['Nexus [3100001]']
+04.28	grEEngLade      Ability (13E0) - TrainMarine
+04.29	grEEngLade      SelectionEvent['Marine [3E00002]', 'Marine [4380002]']
+04.29	Floyd           SelectionEvent['Probe [3400001]']
+04.30	grEEngLade      SelectionEvent['Marine [3E00002]', 'Marine [4380002]']
+04.30	grEEngLade      SelectionEvent['Marine [3E00002]', 'Marine [4380002]']
+04.30	grEEngLade      SelectionEvent['Marine [3E00002]', 'Marine [4380002]']
+04.30	grEEngLade      SelectionEvent['Marine [3E00002]', 'Marine [4380002]']
+04.31	grEEngLade      SelectionEvent[]
+04.31	grEEngLade      Ability (12A0) - BuildFactoryTechLab; Location: (34.5, 122.5, 49088)
+04.32	Floyd           SelectionEvent['Nexus [3100001]']
+04.34	Floyd           Ability (5980); Target: CyberneticsCore [03CC0001]; Location: (145.5, 30.5, 49088)
+04.34	grEEngLade      SelectionEvent['SCV [3C80001]']
+04.35	grEEngLade      Right Click; Location: (39.399658203125, 118.010986328125, 49091)
+04.36	Floyd           SelectionEvent['Probe [3B80001]']
+04.36	grEEngLade      Ability (102B) - BuildStarport; Location: (34.5, 119.5, 49091)
+04.37	Floyd           Right Click; Location: (142.899658203125, 28.627197265625, 49091)
+04.37	Floyd           Right Click; Location: (142.8974609375, 28.695068359375, 49091)
+04.38	grEEngLade      Right Click; Target: MineralField750 [02640001]; Location: (24.0, 127.5, 49088)
+04.40	grEEngLade      Ability (1360) - TrainSCV
+04.40	Floyd           Ability (1546) - BuildTwilightCouncil; Location: (142.5, 30.5, 49091)
+04.42	Floyd           SelectionEvent['Nexus [3C00001]']
+04.42	Floyd           Ability (15E0) - TrainProbe
+04.43	grEEngLade      Ability (541) - Patrol; Location: (145.495361328125, 105.459228515625, 40922)
+04.45	grEEngLade      Ability (1260) - BuildBarracksTechLab; Location: (38.5, 111.5, 49088)
+04.45	Floyd           SelectionEvent['Probe [3B80001]']
+04.46	Floyd           Right Click; Location: (137.43896484375, 27.00048828125, 49091)
+04.46	Floyd           Right Click; Location: (138.2177734375, 26.537841796875, 49091)
+04.47	grEEngLade      SelectionEvent['BarracksTechLab [4540001]']
+04.48	grEEngLade      SelectionEvent['BarracksTechLab [4540001]']
+04.48	grEEngLade      SelectionEvent['BarracksTechLab [4540001]']
+04.48	grEEngLade      SelectionEvent['BarracksTechLab [4540001]']
+04.48	grEEngLade      SelectionEvent['BarracksTechLab [4540001]']
+04.48	grEEngLade      SelectionEvent['Starport [44C0001]']
+04.49	grEEngLade      SelectionEvent['Starport [44C0001]']
+04.49	grEEngLade      SelectionEvent['Starport [44C0001]']
+04.49	grEEngLade      SelectionEvent['Starport [44C0001]']
+04.49	grEEngLade      SelectionEvent['Starport [44C0001]']
+04.49	Floyd           SelectionEvent['Sentry [4580001]']
+04.50	grEEngLade      Right Click; Location: (37.5185546875, 91.255126953125, 40900)
+04.51	grEEngLade      SelectionEvent['OrbitalCommand [3D40001]']
+04.51	grEEngLade      SelectionEvent['Marine [3E00002]', 'Marine [4380002]']
+04.51	Floyd           Ability (5A0) - Attack; Location: (132.295166015625, 41.14697265625, 49091)
+04.51	grEEngLade      SelectionEvent['Marine [3E00002]', 'Marine [4380002]']
+04.51	grEEngLade      SelectionEvent['Marine [3E00002]', 'Marine [4380002]']
+04.51	grEEngLade      SelectionEvent['Marine [3E00002]', 'Marine [4380002]']
+04.51	grEEngLade      SelectionEvent['Marine [3E00002]', 'Marine [4380002]']
+04.52	Floyd           Right Click; Location: (134.5771484375, 40.932373046875, 49091)
+04.53	grEEngLade      Ability (1360) - TrainSCV
+04.53	Floyd           SelectionEvent['Nexus [3C00001]']
+04.53	Floyd           Ability (15E0) - TrainProbe
+04.57	Floyd           SelectionEvent['Probe [3B80001]']
+04.57	grEEngLade      Ability (B40) - CalldownMULE; Target: LabMineralField750 [00200001]; Location: (23.0, 99.5, 40896)
+04.59	Floyd           Right Click; Location: (143.824951171875, 29.57373046875, 49091)
+04.59	grEEngLade      Ability (13E0) - TrainMarine
+05.00	Floyd           Right Click; Location: (143.380615234375, 28.602294921875, 49091)
+05.00	Floyd           Right Click; Location: (143.432373046875, 28.49365234375, 49091)
+05.01	Floyd           Ability (1541) - BuildPylon; Location: (144.0, 28.0, 49091)
+05.03	Floyd           Right Click; Location: (142.0, 28.0, 49091)
+05.03	Floyd           Right Click; Location: (141.314697265625, 22.812255859375, 49091)
+05.04	grEEngLade      SelectionEvent['Marine [4680001]', 'Marine [46C0001]']
+05.04	grEEngLade      SelectionEvent['Marine [3E00002]', 'Marine [4380002]', 'Marine [4680001]', 'Marine [46C0001]']
+05.04	grEEngLade      SelectionEvent['Marine [3E00002]', 'Marine [4380002]', 'Marine [4680001]', 'Marine [46C0001]']
+05.04	grEEngLade      SelectionEvent['Marine [3E00002]', 'Marine [4380002]', 'Marine [4680001]', 'Marine [46C0001]']
+05.04	grEEngLade      SelectionEvent['Marine [3E00002]', 'Marine [4380002]', 'Marine [4680001]', 'Marine [46C0001]']
+05.05	Floyd           Right Click; Target: MineralField [01040001]; Location: (149.0, 17.5, 49088)
+05.06	Floyd           SelectionEvent['Nexus [3100001]']
+05.06	Floyd           Ability (15E0) - TrainProbe
+05.08	Floyd           SelectionEvent['Nexus [3C00001]']
+05.08	grEEngLade      SelectionEvent[]
+05.09	Floyd           Ability (5980); Target: Nexus [03C00001]; Location: (146.5, 52.5, 40896)
+05.11	Floyd           SelectionEvent['Sentry [4580001]', 'Stalker [4240001]', 'Stalker [4600001]', 'Zealot [3F80001]']
+05.11	grEEngLade      Ability (5A0) - Attack; Location: (149.79638671875, 78.605224609375, 32708)
+05.11	Floyd           Ability (5A0) - Attack; Location: (137.424560546875, 57.072998046875, 40900)
+05.12	grEEngLade      Ability (5A0) - Attack; Location: (151.217529296875, 77.7392578125, 32708)
+05.13	grEEngLade      Right Click; Location: (150.318603515625, 73.54736328125, 32709)
+05.13	Floyd           SelectionEvent['Probe [4800001]']
+05.13	Floyd           Right Click; Location: (140.483642578125, 57.782958984375, 40900)
+05.13	grEEngLade      Ability (5A0) - Attack; Location: (150.475341796875, 76.34912109375, 32708)
+05.14	grEEngLade      Right Click; Location: (150.656494140625, 76.852294921875, 32708)
+05.14	Floyd           Ability (1541) - BuildPylon; Location: (143.0, 54.0, 40900)
+05.15	Floyd           SelectionEvent['Sentry [4580001]', 'Stalker [4240001]', 'Stalker [4600001]', 'Zealot [3F80001]']
+05.15	Floyd           Ability (5A0) - Attack; Location: (129.225830078125, 61.194091796875, 40907)
+05.16	Floyd           Right Click; Location: (129.43603515625, 62.765380859375, 40907)
+05.17	Floyd           SelectionEvent['WarpGate [39C0001]', 'WarpGate [3F00001]']
+05.19	Floyd           Ability (1AC0) - WarpInZealot; Location: (143.33642578125, 33.1298828125, 49091)
+05.21	grEEngLade      Right Click; Location: (155.20751953125, 46.994140625, 40900)
+05.23	grEEngLade      Right Click; Location: (149.556884765625, 34.25390625, 49091)
+05.24	Floyd           Ability (1AC6) - TrainAdept; Location: (145.534423828125, 33.68798828125, 49091)
+05.24	grEEngLade      Right Click; Location: (156.965576171875, 24.587158203125, 49091)
+05.25	grEEngLade      Right Click; Location: (128.182373046875, 21.851318359375, 49091)
+05.26	grEEngLade      Right Click; Location: (135.248779296875, 34.4404296875, 49091)
+05.28	grEEngLade      Ability (1360) - TrainSCV
+05.28	grEEngLade      Ability (13E0) - TrainMarine
+05.29	Floyd           SelectionEvent['Sentry [4580001]', 'Stalker [4240001]', 'Stalker [4600001]', 'Adept [49C0001]', 'Zealot [3F80001]', 'Zealot [4940001]']
+05.30	Floyd           Ability (5A0) - Attack; Location: (140.3759765625, 59.158203125, 40900)
+05.32	grEEngLade      SelectionEvent[]
+05.32	grEEngLade      Ability (12E1) - BuildStarportReactor; Location: (34.5, 119.5, 49088)
+05.33	Floyd           Right Click; Location: (156.013671875, 47.78369140625, 40900)
+05.33	grEEngLade      SelectionEvent[]
+05.33	grEEngLade      Ability (1401) - BuildSiegeTank
+05.34	grEEngLade      SelectionEvent[]
+05.35	grEEngLade      Ability (14A0) - ResearchStimpack
+05.35	Floyd           Right Click; Location: (155.066162109375, 43.61572265625, 40900)
+05.37	Floyd           Right Click; Location: (151.910400390625, 35.992431640625, 49092)
+05.38	Floyd           Right Click; Location: (149.984375, 34.474609375, 49091)
+05.39	Floyd           Right Click; Location: (145.944580078125, 33.7568359375, 49091)
+05.40	Floyd           SelectionEvent['WarpGate [39C0001]', 'WarpGate [3F00001]']
+05.41	Floyd           SelectionEvent['TwilightCouncil [4500001]']
+05.42	Floyd           Ability (1DA0) - ResearchCharge
+05.44	grEEngLade      Ability (4EC0) - AdeptShadePhaseShiftCancel; Location: (150.7724609375, 22.913330078125, 49091)
+05.45	grEEngLade      Right Click; Location: (153.833984375, 16.9091796875, 49091)
+05.45	Floyd           SelectionEvent['Sentry [4580001]', 'Stalker [4240001]', 'Stalker [4600001]', 'Adept [49C0001]', 'Zealot [3F80001]', 'Zealot [4940001]']
+05.45	Floyd           Ability (5A0) - Attack; Location: (152.87841796875, 16.420654296875, 49091)
+05.46	grEEngLade      Ability (5A0) - Attack; Target: Probe [04280001]; Location: (151.6337890625, 22.0478515625, 49088)
+05.47	Floyd           Right Click; Location: (147.321044921875, 15.163330078125, 49091)
+05.48	Floyd           SelectionEvent['Probe [33C0001]']
+05.48	grEEngLade      Ability (1360) - TrainSCV
+05.49	Floyd           Right Click; Location: (139.7265625, 24.6552734375, 49091)
+05.49	Floyd           Right Click; Location: (139.8955078125, 24.6552734375, 49091)
+05.50	grEEngLade      Right Click; Location: (148.499755859375, 13.06201171875, 49116)
+05.51	grEEngLade      Right Click; Location: (147.42236328125, 13.64111328125, 49107)
+05.51	grEEngLade      Right Click; Location: (145.907958984375, 14.18310546875, 49091)
+05.51	Floyd           Ability (1544) - BuildForge; Location: (141.5, 25.5, 49091)
+05.51	grEEngLade      Right Click; Location: (144.79638671875, 14.619873046875, 49091)
+05.51	grEEngLade      Right Click; Location: (142.90625, 14.97412109375, 49091)
+05.52	grEEngLade      Right Click; Location: (131.74609375, 19.25927734375, 49091)
+05.52	Floyd           SelectionEvent['Nexus [3100001]']
+05.52	Floyd           Ability (15E0) - TrainProbe
+05.52	grEEngLade      Right Click; Location: (131.6787109375, 19.777587890625, 49091)
+05.53	grEEngLade      Ability (1360) - TrainSCV
+05.54	Floyd           Right Click; Target: MineralField750 [02400001]; Location: (153.0, 23.5, 49088)
+05.54	grEEngLade      Right Click; Location: (131.906982421875, 20.60693359375, 49091)
+05.54	grEEngLade      Right Click; Location: (131.67236328125, 21.524658203125, 49091)
+05.54	grEEngLade      Right Click; Location: (130.268798828125, 20.977294921875, 49091)
+05.55	Floyd           SelectionEvent['Sentry [4580001]', 'Stalker [4240001]', 'Stalker [4600001]', 'Adept [49C0001]', 'Zealot [3F80001]', 'Zealot [4940001]']
+05.55	grEEngLade      Right Click; Location: (128.41259765625, 20.884033203125, 49091)
+05.55	grEEngLade      Right Click; Location: (128.0947265625, 20.837646484375, 49091)
+05.55	grEEngLade      Right Click; Location: (127.825439453125, 20.837646484375, 49091)
+05.55	Floyd           Ability (5A0) - Attack; Location: (135.864501953125, 19.21484375, 49091)
+05.55	grEEngLade      Right Click; Location: (127.66748046875, 20.852783203125, 49091)
+05.55	grEEngLade      Right Click; Location: (127.6923828125, 21.101318359375, 49091)
+05.56	grEEngLade      Right Click; Location: (135.02392578125, 32.04541015625, 49091)
+05.56	Floyd           Right Click; Location: (126.338623046875, 25.55517578125, 49091)
+05.57	grEEngLade      SelectionEvent['Forge [4280002]']
+05.58	grEEngLade      Right Click; Location: (136.91455078125, 33.12548828125, 49091)
+05.58	grEEngLade      Right Click; Location: (135.506103515625, 35.271240234375, 49091)
+05.58	grEEngLade      Right Click; Location: (135.509033203125, 36.370849609375, 49091)
+05.58	grEEngLade      SelectionEvent[]
+06.00	Floyd           Right Click; Location: (132.236328125, 37.43896484375, 49091)
+06.01	grEEngLade      SelectionEvent['SCV [4340002]', 'SCV [4480001]', 'SCV [4700001]']
+06.01	Floyd           Right Click; Location: (137.230224609375, 57.332763671875, 40900)
+06.02	Floyd           SelectionEvent['Nexus [3C00001]']
+06.02	Floyd           Ability (15E0) - TrainProbe
+06.04	Floyd           Ability (5980); Target: Nexus [03C00001]; Location: (146.5, 52.5, 40896)
+06.05	Floyd           SelectionEvent['Probe [4800001]']
+06.05	grEEngLade      Ability (1021) - BuildSupplyDepot; Location: (39.0, 95.0, 40900)
+06.06	Floyd           Ability (1542) - BuildAssimilator; Target: SpacePlatformGeyser [01180001]; Location: (149.5, 59.5, 40904)
+06.06	grEEngLade      Right Click; Location: (39.0, 93.0, 40900)
+06.07	grEEngLade      Right Click; Target: LabMineralField [02600001]; Location: (23.0, 97.5, 40896)
+06.08	Floyd           SelectionEvent['TwilightCouncil [4500001]']
+06.08	grEEngLade      SelectionEvent['Marine [4A00001]', 'Marine [4A40001]', 'Marine [4B80002]', 'Marine [4C40002]', 'Marine [4C80002]']
+06.08	grEEngLade      SelectionEvent['Marine [3E00002]', 'Marine [4380002]', 'Marine [4680001]', 'Marine [46C0001]', 'Marine [4A00001]', 'Marine [4A40001]', 'Marine [4B80002]', 'Marine [4C40002]', 'Marine [4C80002]']
+06.08	grEEngLade      SelectionEvent['Marine [3E00002]', 'Marine [4380002]', 'Marine [4680001]', 'Marine [46C0001]', 'Marine [4A00001]', 'Marine [4A40001]', 'Marine [4B80002]', 'Marine [4C40002]', 'Marine [4C80002]']
+06.09	grEEngLade      SelectionEvent['Marine [3E00002]', 'Marine [4380002]', 'Marine [4680001]', 'Marine [46C0001]', 'Marine [4A00001]', 'Marine [4A40001]', 'Marine [4B80002]', 'Marine [4C40002]', 'Marine [4C80002]']
+06.09	grEEngLade      Right Click; Location: (37.589111328125, 88.989501953125, 40900)
+06.11	grEEngLade      Ability (13E0) - TrainMarine
+06.12	Floyd           SelectionEvent['Probe [4800001]']
+06.12	grEEngLade      Ability (1360) - TrainSCV
+06.13	Floyd           Right Click; Target: SpacePlatformGeyser [002C0001]; Location: (153.5, 55.5, 40896)
+06.13	grEEngLade      Ability (B40) - CalldownMULE; Target: LabMineralField [02300001]; Location: (23.0, 95.5, 40896)
+06.16	grEEngLade      SelectionEvent['SCV [3FC0001]']
+06.16	Floyd           Ability (154F) - BuildShieldBattery; Location: (143.0, 56.0, 40900)
+06.17	grEEngLade      Right Click; Location: (46.236083984375, 124.011962890625, 49091)
+06.18	grEEngLade      Ability (1021) - BuildSupplyDepot; Location: (52.0, 122.0, 49082)
+06.19	Floyd           SelectionEvent['Sentry [4580001]', 'Stalker [4240001]', 'Stalker [4600001]', 'Adept [49C0001]', 'Zealot [3F80001]', 'Zealot [4940001]']
+06.19	grEEngLade      Right Click; Location: (52.321533203125, 122.260498046875, 49103)
+06.19	grEEngLade      Ability (1021) - BuildSupplyDepot; Location: (53.0, 122.0, 49091)
+06.19	Floyd           Ability (5A0) - Attack; Location: (129.860595703125, 61.119140625, 40907)
+06.21	grEEngLade      Right Click; Target: MineralField750 [02640001]; Location: (24.0, 127.5, 49088)
+06.22	Floyd           Ability (A40) - HallucinatePhoenix
+06.22	grEEngLade      SelectionEvent['SiegeTank [4EC0001]']
+06.22	grEEngLade      SelectionEvent['SiegeTank [4EC0001]']
+06.22	grEEngLade      SelectionEvent['SiegeTank [4EC0001]']
+06.22	grEEngLade      SelectionEvent['SiegeTank [4EC0001]']
+06.23	grEEngLade      SelectionEvent[]
+06.23	Floyd           SelectionEvent['Phoenix [4F40001]']
+06.23	grEEngLade      Ability (1401) - BuildSiegeTank
+06.24	Floyd           Right Click; Location: (119.78125, 62.53271484375, 40915)
+06.24	Floyd           Right Click; Location: (119.914306640625, 62.511962890625, 40921)
+06.26	Floyd           Right Click; Location: (28.900634765625, 95.091552734375, 40896)
+06.26	Floyd           Right Click; Location: (35.5341796875, 121.3798828125, 49088)
+06.26	grEEngLade      SelectionEvent[]
+06.27	grEEngLade      Ability (1420) - TrainMedivac
+06.27	Floyd           SelectionEvent['WarpGate [39C0001]', 'WarpGate [3F00001]']
+06.28	Floyd           Ability (1AC1) - WarpInStalker; Location: (140.84912109375, 57.577880859375, 40900)
+06.29	Floyd           Right Click; Location: (140.355712890625, 54.853759765625, 40900)
+06.30	Floyd           SelectionEvent['Probe [4800001]']
+06.31	Floyd           Right Click; Location: (136.369384765625, 55.818603515625, 40900)
+06.33	Floyd           Right Click; Location: (138.82080078125, 29.70849609375, 49091)
+06.34	Floyd           Ability (1543) - BuildGateway; Location: (139.5, 30.5, 49091)
+06.34	Floyd           SelectionEvent['TwilightCouncil [4500001]']
+06.36	Floyd           Ability (5980); Target: TwilightCouncil [04500001]; Location: (142.5, 30.5, 49088)
+06.37	Floyd           SelectionEvent['Probe [33C0001]']
+06.38	grEEngLade      SelectionEvent['Marine [3E00002]', 'Marine [4380002]', 'Marine [4680001]', 'Marine [46C0001]', 'Marine [4A00001]', 'Marine [4A40001]', 'Marine [4B80002]', 'Marine [4C40002]', 'Marine [4C80002]', 'SiegeTank [4EC0001]']
+06.38	grEEngLade      SelectionEvent['Marine [3E00002]', 'Marine [4380002]', 'Marine [4680001]', 'Marine [46C0001]', 'Marine [4A00001]', 'Marine [4A40001]', 'Marine [4B80002]', 'Marine [4C40002]', 'Marine [4C80002]', 'SiegeTank [4EC0001]']
+06.38	grEEngLade      SelectionEvent['Marine [3E00002]', 'Marine [4380002]', 'Marine [4680001]', 'Marine [46C0001]', 'Marine [4A00001]', 'Marine [4A40001]', 'Marine [4B80002]', 'Marine [4C40002]', 'Marine [4C80002]', 'SiegeTank [4EC0001]']
+06.38	grEEngLade      Right Click; Location: (35.669921875, 91.636962890625, 40900)
+06.39	grEEngLade      SelectionEvent[]
+06.39	grEEngLade      Right Click; Location: (32.079833984375, 93.834716796875, 40900)
+06.40	grEEngLade      Right Click; Location: (32.1201171875, 93.970458984375, 40900)
+06.40	Floyd           Right Click; Target: MineralField [01A40001]; Location: (153.0, 21.5, 49088)
+06.41	grEEngLade      Ability (10E0) - SiegeMode
+06.41	grEEngLade      Right Click; Location: (38.384521484375, 90.769775390625, 40900)
+06.42	Floyd           SelectionEvent['Forge [4280002]']
+06.43	Floyd           Ability (1680) - UpgradeGroundWeapons1
+06.44	Floyd           SelectionEvent['Probe [4800001]']
+06.45	grEEngLade      SelectionEvent['SupplyDepotLowered [4D40002]', 'SupplyDepotLowered [4DC0001]']
+06.45	Floyd           Right Click; Location: (137.54248046875, 28.64404296875, 49091)
+06.45	grEEngLade      Ability (13A0) - LowerSupplyDepot
+06.45	grEEngLade      SelectionEvent['SupplyDepotLowered [4D40002]', 'SupplyDepotLowered [4DC0001]']
+06.46	grEEngLade      Right Click; Location: (43.125732421875, 89.6689453125, 40901)
+06.46	grEEngLade      Right Click; Location: (45.316162109375, 90.18408203125, 40907)
+06.46	grEEngLade      Ability (5A0) - Attack; Target: Phoenix [04F40001]; Location: (43.02880859375, 89.945556640625, 56256)
+06.47	grEEngLade      Right Click; Target: Phoenix [04F40001]; Location: (41.280517578125, 90.577880859375, 56256)
+06.47	Floyd           Ability (1544) - BuildForge; Location: (141.5, 22.5, 49091)
+06.48	grEEngLade      Right Click; Location: (42.803955078125, 93.09033203125, 40900)
+06.49	grEEngLade      Right Click; Location: (36.293212890625, 90.09375, 40900)
+06.54	grEEngLade      SelectionEvent['SCV [3C80001]', 'SCV [41C0003]']
+06.54	Floyd           SelectionEvent['Stalker [5080001]', 'Stalker [50C0001]']
+06.54	Floyd           Right Click; Location: (133.963623046875, 60.687255859375, 40900)
+06.54	Floyd           SelectionEvent['WarpGate [39C0001]', 'WarpGate [3F00001]']
+06.54	grEEngLade      Ability (1024) - BuildEngineeringBay; Location: (38.5, 130.5, 49082)
+06.55	grEEngLade      Right Click; Location: (41.5, 130.5, 49082)
+06.56	Floyd           SelectionEvent['Nexus [3C00001]']
+06.56	Floyd           Ability (15E0) - TrainProbe
+06.56	grEEngLade      Right Click; Target: MineralField [01740001]; Location: (31.0, 129.5, 49088)
+06.59	grEEngLade      Ability (B40) - CalldownMULE; Target: LabMineralField750 [00200001]; Location: (23.0, 99.5, 40896)
+07.00	grEEngLade      SelectionEvent['SCV [3E80002]', 'SCV [4340002]', 'SCV [4880001]', 'SCV [4BC0002]', 'SCV [4CC0002]', 'SCV [4F80001]']
+07.00	Floyd           SelectionEvent['WarpGate [39C0001]', 'WarpGate [3F00001]']
+07.00	grEEngLade      Ability (1022) - BuildRefinery; Target: SpacePlatformGeyser [006C0001]; Location: (22.5, 92.5, 40896)
+07.01	grEEngLade      Right Click; Target: SpacePlatformGeyser [000C0001]; Location: (26.5, 88.5, 40904)
+07.02	grEEngLade      SelectionEvent['SCV [4A80001]']
+07.02	Floyd           Ability (1AC5) - WarpInSentry; Location: (144.3369140625, 33.484375, 49091)
+07.03	grEEngLade      Ability (1021) - BuildSupplyDepot; Location: (23.0, 102.0, 40894)
+07.03	Floyd           Ability (1AC1) - WarpInStalker; Location: (145.648193359375, 33.547607421875, 49091)
+07.03	grEEngLade      Right Click; Target: LabMineralField [00700001]; Location: (25.0, 101.5, 40896)
+07.05	grEEngLade      SelectionEvent['EngineeringBay [5200001]', 'EngineeringBay [5280001]']
+07.05	Floyd           SelectionEvent['Nexus [3C00001]']
+07.05	grEEngLade      SelectionEvent['EngineeringBay [5200001]', 'EngineeringBay [5280001]']
+07.05	grEEngLade      SelectionEvent['EngineeringBay [5200001]', 'EngineeringBay [5280001]']
+07.05	grEEngLade      SelectionEvent['EngineeringBay [5200001]', 'EngineeringBay [5280001]']
+07.06	Floyd           SelectionEvent['Sentry [4580001]', 'Sentry [52C0001]', 'Stalker [4240001]', 'Stalker [4600001]', 'Stalker [5080001]', 'Stalker [50C0001]', 'Stalker [5340001]', 'Adept [49C0001]', 'Zealot [3F80001]', 'Zealot [4940001]']
+07.07	Floyd           Ability (5A0) - Attack; Location: (131.8310546875, 64.892578125, 40907)
+07.08	grEEngLade      Ability (13E0) - TrainMarine
+07.09	Floyd           SelectionEvent['Probe [4740002]', 'Probe [5140001]']
+07.10	grEEngLade      Right Click; Location: (36.93408203125, 92.2294921875, 40900)
+07.10	Floyd           Right Click; Target: Assimilator [04D80001]; Location: (149.5, 59.5, 40904)
+07.12	Floyd           SelectionEvent['Probe [4180001]']
+07.12	Floyd           Right Click; Target: Assimilator [04D80001]; Location: (149.5, 59.5, 40904)
+07.13	grEEngLade      SelectionEvent['Marine [53C0001]', 'Marine [5400001]', 'Marine [5480001]']
+07.13	grEEngLade      SelectionEvent['Marine [3E00002]', 'Marine [4380002]', 'Marine [4680001]', 'Marine [46C0001]', 'Marine [4A00001]', 'Marine [4A40001]', 'Marine [4B80002]', 'Marine [4C40002]', 'Marine [4C80002]', 'Marine [53C0001]', 'Marine [5400001]', 'Marine [5480001]']
+07.13	grEEngLade      SelectionEvent['Marine [3E00002]', 'Marine [4380002]', 'Marine [4680001]', 'Marine [46C0001]', 'Marine [4A00001]', 'Marine [4A40001]', 'Marine [4B80002]', 'Marine [4C40002]', 'Marine [4C80002]', 'Marine [53C0001]', 'Marine [5400001]', 'Marine [5480001]']
+07.13	grEEngLade      SelectionEvent['Marine [3E00002]', 'Marine [4380002]', 'Marine [4680001]', 'Marine [46C0001]', 'Marine [4A00001]', 'Marine [4A40001]', 'Marine [4B80002]', 'Marine [4C40002]', 'Marine [4C80002]', 'Marine [53C0001]', 'Marine [5400001]', 'Marine [5480001]']
+07.14	Floyd           SelectionEvent['Probe [4440002]', 'Probe [45C0001]']
+07.14	grEEngLade      Right Click; Target: Marine [053C0001]; Location: (37.5185546875, 91.255126953125, 40896)
+07.14	Floyd           Right Click; Target: Assimilator [04E80001]; Location: (153.5, 55.5, 40896)
+07.16	Floyd           SelectionEvent['Probe [4E00001]']
+07.16	Floyd           Right Click; Target: Assimilator [04E80001]; Location: (153.5, 55.5, 40896)
+07.17	Floyd           SelectionEvent['Nexus [3C00001]']
+07.17	Floyd           Ability (15E0) - TrainProbe
+07.17	grEEngLade      SelectionEvent['SCV [3480001]']
+07.18	Floyd           SelectionEvent['Probe [4900001]']
+07.18	Floyd           Right Click; Location: (139.310302734375, 58.644775390625, 40900)
+07.18	Floyd           Right Click; Location: (139.26513671875, 58.327880859375, 40900)
+07.18	grEEngLade      Ability (1021) - BuildSupplyDepot; Location: (24.0, 129.0, 49082)
+07.19	grEEngLade      Right Click; Target: MineralField750 [003C0001]; Location: (26.0, 129.5, 49088)
+07.19	Floyd           Ability (1547) - BuildPhotonCannon; Location: (139.0, 58.0, 40900)
+07.22	grEEngLade      SelectionEvent['SCV [36C0001]']
+07.23	grEEngLade      Right Click; Location: (42.406982421875, 123.53466796875, 49091)
+07.24	grEEngLade      Ability (1020) - BuildCommandCenter; Location: (45.5, 124.5, 49091)
+07.25	Floyd           Right Click; Location: (138.699951171875, 28.556640625, 49091)
+07.25	grEEngLade      Right Click; Target: None [00000000]; Location: (19.0, 72.5, 32704)
+07.27	grEEngLade      SelectionEvent['SupplyDepotLowered [5040001]']
+07.27	grEEngLade      Ability (13A0) - LowerSupplyDepot
+07.27	grEEngLade      SelectionEvent['SupplyDepotLowered [5040001]']
+07.28	grEEngLade      SelectionEvent['SCV [3FC0001]']
+07.28	Floyd           Right Click; Target: LabMineralField [00440001]; Location: (148.0, 46.5, 40896)
+07.28	grEEngLade      Right Click; Location: (45.178466796875, 120.3427734375, 49091)
+07.29	grEEngLade      Right Click; Location: (43.398681640625, 120.4111328125, 49091)
+07.29	grEEngLade      Right Click; Location: (43.239013671875, 120.382568359375, 49091)
+07.29	grEEngLade      Right Click; Location: (45.704345703125, 120.585693359375, 49091)
+07.29	grEEngLade      Right Click; Location: (46.1318359375, 120.642333984375, 49091)
+07.29	Floyd           SelectionEvent['Probe [4800001]']
+07.29	grEEngLade      Right Click; Location: (42.517822265625, 120.84716796875, 49091)
+07.30	grEEngLade      Right Click; Location: (41.006591796875, 120.98291015625, 49091)
+07.30	Floyd           Right Click; Location: (137.47802734375, 27.287353515625, 49091)
+07.30	Floyd           Right Click; Location: (137.65380859375, 27.287353515625, 49091)
+07.31	grEEngLade      Right Click; Target: MineralField [02740001]; Location: (27.0, 130.5, 49088)
+07.32	Floyd           Ability (1543) - BuildGateway; Location: (138.5, 24.5, 49091)
+07.32	grEEngLade      SelectionEvent['Starport [44C0001]']
+07.33	grEEngLade      Ability (1420) - TrainMedivac
+07.34	Floyd           Ability (154D) - BuildRoboticsFacility; Location: (142.5, 33.5, 49082)
+07.34	grEEngLade      SelectionEvent['OrbitalCommand [56C0001]']
+07.35	grEEngLade      SelectionEvent['OrbitalCommand [56C0001]']
+07.35	grEEngLade      SelectionEvent['OrbitalCommand [56C0001]']
+07.35	grEEngLade      SelectionEvent['OrbitalCommand [56C0001]']
+07.35	Floyd           SelectionEvent['Sentry [52C0001]', 'Stalker [5340001]']
+07.35	Floyd           Right Click; Location: (136.379150390625, 36.64013671875, 49091)
+07.36	grEEngLade      SelectionEvent[]
+07.36	grEEngLade      SelectionEvent['EngineeringBay [5200001]']
+07.36	grEEngLade      SelectionEvent['EngineeringBay [5200001]']
+07.36	grEEngLade      SelectionEvent['EngineeringBay [5200001]']
+07.37	Floyd           Right Click; Location: (134.947021484375, 39.84912109375, 49091)
+07.38	grEEngLade      SelectionEvent['EngineeringBay [5280001]']
+07.38	grEEngLade      SelectionEvent['EngineeringBay [5280001]']
+07.38	grEEngLade      SelectionEvent['EngineeringBay [5280001]']
+07.38	grEEngLade      SelectionEvent['EngineeringBay [5280001]']
+07.38	Floyd           Right Click; Location: (129.500244140625, 31.421875, 49091)
+07.40	grEEngLade      Ability (1360) - TrainSCV
+07.40	Floyd           SelectionEvent['WarpGate [39C0001]', 'WarpGate [3F00001]']
+07.41	grEEngLade      SelectionEvent['SCV [4480001]', 'SCV [4700001]']
+07.41	Floyd           Ability (1AC0) - WarpInZealot; Location: (140.71044921875, 57.694091796875, 40900)
+07.41	Floyd           Right Click; Location: (140.54150390625, 55.694580078125, 40900)
+07.41	grEEngLade      Right Click; Target: Refinery [05300001]; Location: (22.5, 92.5, 40896)
+07.45	grEEngLade      SelectionEvent['SCV [4F80001]', 'SCV [51C0001]']
+07.46	grEEngLade      Right Click; Target: Refinery [05380001]; Location: (26.5, 88.5, 40904)
+07.46	Floyd           SelectionEvent['Nexus [3C00001]']
+07.46	Floyd           Ability (15E0) - TrainProbe
+07.47	grEEngLade      Ability (1360) - TrainSCV
+07.49	Floyd           SelectionEvent['Probe [4800001]']
+07.52	Floyd           SelectionEvent['Forge [4F40002]']
+07.53	grEEngLade      Ability (1160) - ScannerSweep; Location: (142.4990234375, 57.971923828125, 40900)
+07.53	Floyd           Ability (1686) - UpgradeShields1
+07.55	Floyd           Ability (5980); Target: Forge [04F40002]; Location: (141.5, 22.5, 49088)
+07.56	grEEngLade      Ability (13E0) - TrainMarine
+07.56	grEEngLade      Ability (13E3) - TrainMarauder
+07.57	grEEngLade      SelectionEvent[]
+07.57	Floyd           SelectionEvent['Probe [4800001]']
+07.58	grEEngLade      SelectionEvent[]
+07.59	Floyd           Right Click; Target: MineralField [02800001]; Location: (152.0, 24.5, 49088)
+07.59	Floyd           SelectionEvent['WarpGate [39C0001]', 'WarpGate [3F00001]', 'WarpGate [5100001]']
+08.00	grEEngLade      Ability (1442) - UpgradeTerranInfantryWeapons1
+08.03	grEEngLade      SelectionEvent['Marine [5700001]', 'Marine [5740001]', 'Marine [57C0001]', 'SiegeTank [5680001]', 'Medivac [5580001]', 'Medivac [55C0001]']
+08.03	Floyd           SelectionEvent['Probe [3900001]']
+08.03	grEEngLade      SelectionEvent['Marine [3E00002]', 'Marine [4380002]', 'Marine [4680001]', 'Marine [46C0001]', 'Marine [4A00001]', 'Marine [4A40001]', 'Marine [4B80002]', 'Marine [4C40002]', 'Marine [4C80002]', 'Marine [53C0001]', 'Marine [5400001]', 'Marine [5480001]', 'Marine [5700001]', 'Marine [5740001]', 'Marine [57C0001]', 'SiegeTank [4EC0001]', 'SiegeTank [5680001]', 'Medivac [5580001]', 'Medivac [55C0001]']
+08.03	grEEngLade      SelectionEvent['Marine [3E00002]', 'Marine [4380002]', 'Marine [4680001]', 'Marine [46C0001]', 'Marine [4A00001]', 'Marine [4A40001]', 'Marine [4B80002]', 'Marine [4C40002]', 'Marine [4C80002]', 'Marine [53C0001]', 'Marine [5400001]', 'Marine [5480001]', 'Marine [5700001]', 'Marine [5740001]', 'Marine [57C0001]', 'SiegeTank [4EC0001]', 'SiegeTank [5680001]', 'Medivac [5580001]', 'Medivac [55C0001]']
+08.03	grEEngLade      SelectionEvent['Marine [3E00002]', 'Marine [4380002]', 'Marine [4680001]', 'Marine [46C0001]', 'Marine [4A00001]', 'Marine [4A40001]', 'Marine [4B80002]', 'Marine [4C40002]', 'Marine [4C80002]', 'Marine [53C0001]', 'Marine [5400001]', 'Marine [5480001]', 'Marine [5700001]', 'Marine [5740001]', 'Marine [57C0001]', 'SiegeTank [4EC0001]', 'SiegeTank [5680001]', 'Medivac [5580001]', 'Medivac [55C0001]']
+08.03	Floyd           Right Click; Location: (147.88525390625, 27.84765625, 49091)
+08.03	grEEngLade      SelectionEvent[]
+08.04	grEEngLade      Ability (1100) - TankMode
+08.04	Floyd           Ability (1541) - BuildPylon; Location: (148.0, 28.0, 49091)
+08.05	grEEngLade      Ability (5A0) - Attack; Location: (123.53857421875, 82.289306640625, 32715)
+08.05	grEEngLade      Right Click; Location: (135.309326171875, 82.75, 32715)
+08.06	grEEngLade      Right Click; Location: (135.309326171875, 80.90771484375, 32715)
+08.06	Floyd           Right Click; Location: (140.0, 28.0, 49091)
+08.08	grEEngLade      Right Click; Location: (138.025634765625, 79.526123046875, 32715)
+08.09	grEEngLade      Right Click; Location: (138.025634765625, 79.526123046875, 32715)
+08.11	grEEngLade      SelectionEvent[]
+08.11	grEEngLade      Ability (1401) - BuildSiegeTank
+08.11	Floyd           SelectionEvent['Nexus [3C00001]']
+08.11	Floyd           Ability (15E0) - TrainProbe
+08.13	Floyd           Ability (5980); Target: Nexus [03C00001]; Location: (146.5, 52.5, 40896)
+08.14	grEEngLade      Right Click; Location: (41.33740234375, 90.437255859375, 40900)
+08.15	grEEngLade      Right Click; Location: (33.132080078125, 93.011474609375, 40900)
+08.15	grEEngLade      Right Click; Location: (33.1298828125, 93.2900390625, 40900)
+08.15	Floyd           SelectionEvent['Probe [3900001]']
+08.15	grEEngLade      Right Click; Location: (33.12060546875, 93.3935546875, 40900)
+08.15	Floyd           Right Click; Location: (136.256591796875, 28.288330078125, 49091)
+08.16	grEEngLade      Right Click; Location: (33.09033203125, 93.467041015625, 40900)
+08.16	grEEngLade      Ability (5A0) - Attack; Location: (33.0947265625, 93.673583984375, 40900)
+08.16	Floyd           Ability (1541) - BuildPylon; Location: (138.0, 28.0, 49091)
+08.18	Floyd           Right Click; Location: (134.832763671875, 27.714111328125, 49091)
+08.18	grEEngLade      SelectionEvent[]
+08.18	grEEngLade      Ability (1420) - TrainMedivac
+08.19	Floyd           Ability (1541) - BuildPylon; Location: (136.0, 28.0, 49091)
+08.20	grEEngLade      SelectionEvent[]
+08.21	Floyd           SelectionEvent['Pylon [5980001]']
+08.21	grEEngLade      Ability (1360) - TrainSCV
+08.22	Floyd           SelectionEvent['Nexus [3C00001]']
+08.24	grEEngLade      SelectionEvent['Marine [5BC0001]', 'Marine [5C00001]']
+08.24	Floyd           SelectionEvent['Probe [3900001]']
+08.24	grEEngLade      Right Click; Target: Medivac [05580001]; Location: (33.8740234375, 93.38232421875, 56256)
+08.25	grEEngLade      SelectionEvent[]
+08.25	Floyd           Right Click; Location: (134.0, 28.0, 49091)
+08.25	grEEngLade      Right Click; Target: Medivac [055C0001]; Location: (32.779541015625, 93.78173828125, 56256)
+08.25	grEEngLade      SelectionEvent[]
+08.25	grEEngLade      SelectionEvent[]
+08.26	grEEngLade      SelectionEvent[]
+08.26	grEEngLade      SelectionEvent[]
+08.26	grEEngLade      SelectionEvent[]
+08.26	grEEngLade      SelectionEvent[]
+08.26	grEEngLade      SelectionEvent[]
+08.27	Floyd           Right Click; Location: (134.59716796875, 34.29248046875, 49091)
+08.28	Floyd           Right Click; Location: (148.30517578125, 84.698486328125, 32704)
+08.28	Floyd           Right Click; Location: (147.7021484375, 79.807861328125, 32704)
+08.28	grEEngLade      SelectionEvent['Medivac [5580001]', 'Medivac [55C0001]']
+08.28	Floyd           Right Click; Location: (148.908203125, 79.807861328125, 32704)
+08.29	grEEngLade      SelectionEvent['Medivac [5580001]', 'Medivac [55C0001]']
+08.29	grEEngLade      SelectionEvent[]
+08.29	grEEngLade      SelectionEvent['Medivac [5580001]', 'Medivac [55C0001]']
+08.29	grEEngLade      SelectionEvent['Medivac [5580001]', 'Medivac [55C0001]']
+08.29	grEEngLade      SelectionEvent['Medivac [5580001]', 'Medivac [55C0001]']
+08.30	grEEngLade      Right Click; Location: (105.88232421875, 27.48681640625, 33764)
+08.30	grEEngLade      Ability (3280) - ExtendingBridgeNEWide10
+08.31	grEEngLade      Right Click; Location: (107.168212890625, 16.301513671875, 32732)
+08.31	Floyd           SelectionEvent['WarpGate [39C0001]', 'WarpGate [3F00001]', 'WarpGate [5100001]']
+08.33	grEEngLade      Ability (1142) - UnloadTargetMedivac; Location: (138.179443359375, 19.897216796875, 49091)
+08.33	Floyd           Ability (1AC0) - WarpInZealot; Location: (141.03759765625, 57.13720703125, 40900)
+08.33	Floyd           Right Click; Location: (142.7607421875, 57.874755859375, 40900)
+08.34	grEEngLade      Ability (13E0) - TrainMarine
+08.34	grEEngLade      Ability (13E3) - TrainMarauder
+08.35	Floyd           Ability (1AC5) - WarpInSentry; Location: (144.407958984375, 58.116943359375, 40900)
+08.37	grEEngLade      SelectionEvent['Marine [5C00001]', 'Marauder [5C40001]', 'Medivac [5580001]', 'Medivac [55C0001]', 'Medivac [5A80001]', 'Medivac [5AC0001]']
+08.38	grEEngLade      SelectionEvent['Marine [5C00001]', 'Marauder [5C40001]', 'SiegeTank [4EC0001]', 'SiegeTank [5680001]', 'Medivac [5580001]', 'Medivac [55C0001]', 'Medivac [5A80001]', 'Medivac [5AC0001]']
+08.38	grEEngLade      SelectionEvent['Marine [5C00001]', 'Marauder [5C40001]', 'SiegeTank [4EC0001]', 'SiegeTank [5680001]', 'Medivac [5A80001]', 'Medivac [5AC0001]']
+08.38	grEEngLade      SelectionEvent['Marine [5C00001]', 'Marauder [5C40001]', 'SiegeTank [4EC0001]', 'SiegeTank [5680001]', 'Medivac [5580001]', 'Medivac [55C0001]', 'Medivac [5A80001]', 'Medivac [5AC0001]']
+08.38	grEEngLade      SelectionEvent['Marine [5C00001]', 'Marauder [5C40001]', 'SiegeTank [4EC0001]', 'SiegeTank [5680001]', 'Medivac [5580001]', 'Medivac [55C0001]', 'Medivac [5A80001]', 'Medivac [5AC0001]']
+08.39	grEEngLade      SelectionEvent[]
+08.39	grEEngLade      SelectionEvent['Medivac [5580001]', 'Medivac [55C0001]']
+08.39	grEEngLade      SelectionEvent[]
+08.39	grEEngLade      SelectionEvent['Medivac [5580001]', 'Medivac [55C0001]']
+08.39	grEEngLade      SelectionEvent['Medivac [5580001]', 'Medivac [55C0001]']
+08.39	grEEngLade      SelectionEvent['Medivac [5580001]', 'Medivac [55C0001]']
+08.40	grEEngLade      Right Click; Location: (35.115478515625, 90.99951171875, 40900)
+08.41	grEEngLade      Right Click; Location: (35.657470703125, 90.943603515625, 40900)
+08.41	grEEngLade      Right Click; Location: (35.910888671875, 90.90234375, 40900)
+08.41	grEEngLade      SelectionEvent[]
+08.42	grEEngLade      Ability (10E0) - SiegeMode
+08.43	grEEngLade      Ability (5A0) - Attack; Location: (42.63720703125, 89.333251953125, 40900)
+08.43	grEEngLade      Right Click; Location: (42.807861328125, 89.09912109375, 40900)
+08.43	grEEngLade      Right Click; Location: (43.0546875, 88.345703125, 40900)
+08.44	Floyd           SelectionEvent['RoboticsFacility [5800001]']
+08.45	Floyd           Ability (15C1) - TrainObserver
+08.47	grEEngLade      SelectionEvent[]
+08.47	grEEngLade      Ability (1446) - UpgradeTerranInfantryArmor1
+08.48	grEEngLade      SelectionEvent[]
+08.48	grEEngLade      Ability (14A1) - ResearchCombatShield
+08.50	Floyd           SelectionEvent['Probe [3900001]']
+08.51	grEEngLade      SelectionEvent[]
+08.51	grEEngLade      Ability (10E0) - SiegeMode
+08.52	grEEngLade      Right Click; Location: (43.674072265625, 86.80712890625, 40904)
+08.54	grEEngLade      Ability (1360) - TrainSCV
+08.54	Floyd           Ability (1540) - BuildNexus; Location: (150.5, 77.5, 32708)
+08.57	grEEngLade      SelectionEvent['SCV [5D80001]']
+08.58	Floyd           Ability (5980); Target: Forge [04280002]; Location: (141.5, 25.5, 49088)
+08.58	grEEngLade      Ability (1021) - BuildSupplyDepot; Location: (20.0, 98.0, 40894)
+08.59	grEEngLade      Right Click; Target: LabMineralField750 [00200001]; Location: (23.0, 99.5, 40896)
+09.00	grEEngLade      SelectionEvent['SCV [3480001]']
+09.01	Floyd           SelectionEvent['RoboticsFacility [5800001]']
+09.01	grEEngLade      Ability (1021) - BuildSupplyDepot; Location: (20.0, 126.0, 49082)
+09.01	grEEngLade      Right Click; Target: MineralField [01140001]; Location: (23.0, 126.5, 49088)
+09.02	Floyd           SelectionEvent['WarpGate [39C0001]', 'WarpGate [3F00001]', 'WarpGate [5100001]', 'WarpGate [5780001]']
+09.03	grEEngLade      SelectionEvent[]
+09.03	grEEngLade      Ability (1401) - BuildSiegeTank
+09.04	grEEngLade      SelectionEvent[]
+09.06	Floyd           SelectionEvent['Probe [3400001]']
+09.06	grEEngLade      SelectionEvent['EngineeringBay [5200001]', 'EngineeringBay [5280001]']
+09.06	grEEngLade      SelectionEvent['EngineeringBay [5200001]', 'EngineeringBay [5280001]']
+09.06	grEEngLade      SelectionEvent['EngineeringBay [5200001]', 'EngineeringBay [5280001]']
+09.06	grEEngLade      SelectionEvent['EngineeringBay [5200001]', 'EngineeringBay [5280001]']
+09.06	grEEngLade      SelectionEvent['EngineeringBay [5200001]', 'EngineeringBay [5280001]']
+09.06	Floyd           Right Click; Location: (155.859619140625, 23.941162109375, 49091)
+09.07	grEEngLade      SelectionEvent[]
+09.07	grEEngLade      SelectionEvent['OrbitalCommand [56C0001]']
+09.07	grEEngLade      SelectionEvent['OrbitalCommand [56C0001]']
+09.07	grEEngLade      SelectionEvent['OrbitalCommand [56C0001]']
+09.07	grEEngLade      SelectionEvent['OrbitalCommand [56C0001]']
+09.08	Floyd           Ability (154A) - BuildTemplarArchive; Location: (155.5, 22.5, 49082)
+09.09	Floyd           Right Click; Target: MineralField [01A40001]; Location: (153.0, 21.5, 49088)
+09.09	grEEngLade      Ability (1360) - TrainSCV
+09.11	grEEngLade      Right Click; Target: None [00000000]; Location: (20.0, 75.5, 32704)
+09.12	grEEngLade      SelectionEvent[]
+09.13	Floyd           SelectionEvent['TwilightCouncil [4500001]']
+09.13	grEEngLade      Ability (1C60) - UpgradeToOrbitalCommand
+09.13	Floyd           SelectionEvent['WarpGate [39C0001]', 'WarpGate [3F00001]', 'WarpGate [5100001]', 'WarpGate [5780001]']
+09.15	Floyd           Ability (1AC1) - WarpInStalker; Location: (138.7314453125, 56.19921875, 40900)
+09.16	Floyd           Right Click; Location: (139.40576171875, 54.05517578125, 40900)
+09.16	Floyd           Right Click; Location: (140.072265625, 52.226806640625, 40900)
+09.16	grEEngLade      Ability (B40) - CalldownMULE; Target: LabMineralField750 [01840001]; Location: (24.0, 100.5, 40896)
+09.17	grEEngLade      Ability (3280) - ExtendingBridgeNEWide10
+09.18	grEEngLade      Ability (1142) - UnloadTargetMedivac; Location: (140.156982421875, 19.6337890625, 49091)
+09.19	Floyd           Ability (1AC5) - WarpInSentry; Location: (141.535400390625, 52.64697265625, 40900)
+09.21	grEEngLade      SelectionEvent['Marine [4A00001]', 'Marine [4C80002]', 'Marine [53C0001]', 'Marine [57C0001]']
+09.21	grEEngLade      Ability (1060) - UseStimpack
+09.21	grEEngLade      Right Click; Target: Probe [03300001]; Location: (145.121337890625, 19.966796875, 49088)
+09.22	Floyd           SelectionEvent['Sentry [4580001]', 'Sentry [5240002]', 'Sentry [52C0001]', 'Sentry [6240001]', 'Stalker [4240001]', 'Stalker [4600001]', 'Stalker [5080001]', 'Stalker [50C0001]', 'Stalker [5340001]', 'Stalker [6100001]', 'Stalker [6140001]', 'Stalker [6180001]', 'Adept [49C0001]', 'Zealot [3F80001]', 'Zealot [4940001]', 'Zealot [5840001]', 'Zealot [5880001]', 'Zealot [5CC0001]', 'Zealot [5D00001]', 'ObserverSiegeMode [60C0001]']
+09.22	grEEngLade      Ability (5A0) - Attack; Target: Probe [03140001]; Location: (146.12841796875, 20.344970703125, 49088)
+09.22	Floyd           Ability (5A0) - Attack; Location: (143.25048828125, 12.61669921875, 49091)
+09.23	grEEngLade      Right Click; Location: (148.803466796875, 20.590576171875, 49091)
+09.23	grEEngLade      Right Click; Location: (148.334716796875, 20.604736328125, 49091)
+09.23	grEEngLade      Ability (5A0) - Attack; Location: (147.794677734375, 20.144775390625, 49091)
+09.23	Floyd           SelectionEvent['Probe [3140001]', 'Probe [3180001]', 'Probe [3200001]', 'Probe [3240001]', 'Probe [32C0001]', 'Probe [3300001]', 'Probe [3340001]', 'Probe [3380001]', 'Probe [33C0001]', 'Probe [3400001]', 'Probe [3780001]', 'Probe [3A80001]', 'Probe [3B80001]', 'Probe [3C40001]', 'Probe [3D00001]', 'Probe [3F40001]', 'Probe [4100001]', 'Probe [4800001]', 'Probe [4D00002]', 'Probe [5000001]']
+09.23	Floyd           SelectionEvent[]
+09.24	Floyd           Right Click; Location: (156.614013671875, 32.842529296875, 49092)
+09.24	Floyd           Right Click; Location: (156.109619140625, 31.828857421875, 49092)
+09.24	grEEngLade      SelectionEvent['Marine [4380002]', 'Marine [4A00001]', 'Marine [4A40001]', 'Marine [4B80002]', 'Marine [4C80002]', 'Marine [53C0001]', 'Marine [5400001]', 'Marine [5480001]', 'Marine [5740001]', 'Marine [57C0001]', 'Medivac [5580001]']
+09.24	grEEngLade      Ability (1060) - UseStimpack
+09.24	Floyd           SelectionEvent[]
+09.25	grEEngLade      SelectionEvent['Marine [4680001]', 'Marine [46C0001]']
+09.25	Floyd           SelectionEvent[]
+09.25	grEEngLade      Right Click; Location: (145.3603515625, 21.056396484375, 49091)
+09.25	Floyd           Right Click; Location: (149.05419921875, 37.9033203125, 49091)
+09.25	grEEngLade      Right Click; Location: (145.81787109375, 21.21826171875, 49091)
+09.25	grEEngLade      Ability (5A0) - Attack; Location: (147.59619140625, 21.115234375, 49091)
+09.26	grEEngLade      Right Click; Location: (147.8125, 21.114990234375, 49091)
+09.26	Floyd           SelectionEvent['Sentry [4580001]', 'Sentry [5240002]', 'Sentry [52C0001]', 'Sentry [6240001]', 'Stalker [4240001]', 'Stalker [4600001]', 'Stalker [5080001]', 'Stalker [50C0001]', 'Stalker [5340001]', 'Stalker [6100001]', 'Stalker [6140001]', 'Stalker [6180001]', 'Adept [49C0001]', 'Zealot [3F80001]', 'Zealot [4940001]', 'Zealot [5840001]', 'Zealot [5880001]', 'Zealot [5CC0001]', 'Zealot [5D00001]', 'ObserverSiegeMode [60C0001]']
+09.26	grEEngLade      Right Click; Location: (148.1748046875, 21.071044921875, 49091)
+09.26	grEEngLade      Right Click; Location: (148.384765625, 21.115234375, 49091)
+09.26	grEEngLade      Ability (5A0) - Attack; Location: (150.61572265625, 22.22314453125, 49091)
+09.27	Floyd           Ability (5A0) - Attack; Location: (154.991455078125, 19.1259765625, 49091)
+09.27	grEEngLade      Right Click; Location: (150.80029296875, 22.23876953125, 49091)
+09.27	grEEngLade      Ability (5A0) - Attack; Location: (150.8076171875, 22.421875, 49091)
+09.27	grEEngLade      Right Click; Location: (150.98828125, 22.345703125, 49091)
+09.28	grEEngLade      Ability (5A0) - Attack; Location: (151.986083984375, 23.0107421875, 49091)
+09.28	Floyd           SelectionEvent['Probe [3140001]', 'Probe [3200001]', 'Probe [3240001]', 'Probe [32C0001]', 'Probe [3340001]', 'Probe [3380001]', 'Probe [33C0001]', 'Probe [3400001]', 'Probe [3780001]', 'Probe [3A80001]', 'Probe [3B80001]', 'Probe [3C40001]', 'Probe [3F40001]', 'Probe [4100001]', 'Probe [4800001]', 'Probe [4D00002]', 'Probe [5000001]']
+09.28	Floyd           SelectionEvent[]
+09.28	Floyd           SelectionEvent[]
+09.28	Floyd           Right Click; Location: (145.70263671875, 37.839111328125, 49105)
+09.29	Floyd           SelectionEvent[]
+09.29	Floyd           Right Click; Location: (136.98974609375, 40.00830078125, 49091)
+09.29	grEEngLade      Right Click; Location: (149.6982421875, 24.38232421875, 49091)
+09.30	Floyd           SelectionEvent['Sentry [4580001]', 'Sentry [5240002]', 'Sentry [52C0001]', 'Sentry [6240001]', 'Stalker [4240001]', 'Stalker [4600001]', 'Stalker [5080001]', 'Stalker [50C0001]', 'Stalker [5340001]', 'Stalker [6100001]', 'Stalker [6140001]', 'Stalker [6180001]', 'Adept [49C0001]', 'Zealot [3F80001]', 'Zealot [4940001]', 'Zealot [5840001]', 'Zealot [5880001]', 'Zealot [5CC0001]', 'Zealot [5D00001]', 'ObserverSiegeMode [60C0001]']
+09.30	grEEngLade      SelectionEvent['Medivac [5580001]', 'Medivac [55C0001]']
+09.30	grEEngLade      Ability (1060) - UseStimpack
+09.30	Floyd           SelectionEvent[]
+09.31	grEEngLade      Right Click; Location: (149.43505859375, 25.78076171875, 49091)
+09.31	grEEngLade      Right Click; Location: (149.4609375, 26.037353515625, 49091)
+09.31	Floyd           Ability (5A0) - Attack; Location: (157.46240234375, 32.037109375, 49092)
+09.31	grEEngLade      Right Click; Location: (149.331787109375, 26.12255859375, 49091)
+09.31	grEEngLade      Ability (5A0) - Attack; Location: (149.399169921875, 26.9052734375, 49091)
+09.32	Floyd           Right Click; Location: (156.241943359375, 29.276611328125, 49091)
+09.32	grEEngLade      SelectionEvent['Marine [3E00002]', 'Marine [4C40002]', 'Marine [5700001]', 'Marine [5BC0001]']
+09.32	grEEngLade      Ability (1060) - UseStimpack
+09.33	grEEngLade      Right Click; Location: (135.892822265625, 22.11669921875, 49091)
+09.33	grEEngLade      Ability (5A0) - Attack; Target: Stalker [05340001]; Location: (134.495849609375, 25.092041015625, 49088)
+09.33	Floyd           Right Click; Location: (156.875732421875, 26.164306640625, 49091)
+09.34	grEEngLade      Ability (13E0) - TrainMarine
+09.35	grEEngLade      Ability (13E3) - TrainMarauder
+09.35	grEEngLade      SelectionEvent[]
+09.35	Floyd           Right Click; Location: (149.250244140625, 21.42626953125, 49091)
+09.35	grEEngLade      Ability (1420) - TrainMedivac
+09.35	grEEngLade      Ability (1426) - TrainLiberator
+09.36	Floyd           Ability (8E0) - GuardianShield
+09.36	Floyd           SelectionEvent[]
+09.36	grEEngLade      SelectionEvent['Marine [4380002]', 'Marine [4680001]', 'Marine [46C0001]', 'Marine [4A40001]', 'Marine [4B80002]', 'Marine [4C80002]', 'Marine [53C0001]', 'Marine [5400001]', 'Marine [5480001]', 'Marine [5740001]', 'Marine [57C0001]', 'Medivac [5580001]']
+09.36	grEEngLade      Right Click; Location: (144.489990234375, 19.960693359375, 49091)
+09.37	grEEngLade      SelectionEvent[]
+09.37	grEEngLade      Right Click; Location: (144.5888671875, 19.903564453125, 49091)
+09.37	grEEngLade      Right Click; Location: (144.481201171875, 19.861083984375, 49091)
+09.37	grEEngLade      Right Click; Target: Medivac [05580001]; Location: (146.67919921875, 22.373779296875, 64448)
+09.38	grEEngLade      SelectionEvent[]
+09.38	grEEngLade      SelectionEvent[]
+09.38	grEEngLade      SelectionEvent[]
+09.38	grEEngLade      SelectionEvent[]
+09.40	grEEngLade      SelectionEvent['Marine [3E00002]', 'Marine [4380002]', 'Marine [4C40002]', 'Marine [5700001]', 'Marine [5BC0001]', 'Medivac [55C0001]']
+09.40	Floyd           Ability (5A0) - Attack; Location: (138.119873046875, 17.244384765625, 49091)
+09.40	grEEngLade      Right Click; Target: Medivac [055C0001]; Location: (141.834716796875, 20.799560546875, 64448)
+09.40	grEEngLade      SelectionEvent[]
+09.40	grEEngLade      SelectionEvent[]
+09.41	grEEngLade      Right Click; Location: (137.692138671875, 22.54541015625, 49091)
+09.41	grEEngLade      Ability (3280) - ExtendingBridgeNEWide10
+09.41	grEEngLade      Right Click; Location: (134.0517578125, 20.939453125, 49091)
+09.41	grEEngLade      Right Click; Location: (132.754150390625, 20.3740234375, 49091)
+09.41	Floyd           Right Click; Location: (140.617919921875, 13.340087890625, 49115)
+09.41	grEEngLade      Right Click; Location: (132.41357421875, 20.04541015625, 49091)
+09.41	grEEngLade      Right Click; Location: (131.3642578125, 19.524169921875, 49091)
+09.42	grEEngLade      Right Click; Location: (129.44091796875, 18.75244140625, 49091)
+09.42	grEEngLade      Right Click; Location: (128.8974609375, 18.4541015625, 49091)
+09.42	grEEngLade      Right Click; Location: (127.620849609375, 18.319580078125, 49091)
+09.42	Floyd           Right Click; Location: (131.548583984375, 18.535400390625, 49091)
+09.43	grEEngLade      Right Click; Location: (110.339599609375, 23.09326171875, 32732)
+09.43	grEEngLade      Right Click; Location: (109.057373046875, 23.322021484375, 32732)
+09.43	Floyd           Right Click; Location: (127.572021484375, 19.9140625, 49091)
+09.43	grEEngLade      Right Click; Location: (100.92919921875, 21.845703125, 40900)
+09.44	grEEngLade      Right Click; Location: (100.694580078125, 21.567138671875, 40900)
+09.44	grEEngLade      Right Click; Location: (100.343017578125, 20.17041015625, 40908)
+09.45	grEEngLade      SelectionEvent['Medivac [5580001]', 'Medivac [55C0001]']
+09.45	grEEngLade      SelectionEvent['Medivac [5580001]', 'Medivac [55C0001]']
+09.45	grEEngLade      SelectionEvent['Medivac [5580001]', 'Medivac [55C0001]']
+09.45	grEEngLade      SelectionEvent['Medivac [5580001]', 'Medivac [55C0001]']
+09.46	Floyd           SelectionEvent['Probe [3140001]', 'Probe [3200001]', 'Probe [3240001]', 'Probe [32C0001]', 'Probe [3340001]', 'Probe [3380001]', 'Probe [33C0001]', 'Probe [3A80001]', 'Probe [3B80001]', 'Probe [3C40001]', 'Probe [4100001]', 'Probe [4800001]', 'Probe [4D00002]', 'Probe [5000001]']
+09.47	Floyd           Right Click; Target: MineralField [01A40001]; Location: (153.0, 21.5, 49088)
+09.47	grEEngLade      Right Click; Location: (107.0595703125, 21.135986328125, 32732)
+09.47	grEEngLade      Right Click; Location: (106.06103515625, 21.782958984375, 32732)
+09.48	Floyd           SelectionEvent['Sentry [4580001]', 'Sentry [5240002]', 'Sentry [6240001]', 'Stalker [4240001]', 'Stalker [4600001]', 'Stalker [5080001]', 'Stalker [50C0001]', 'Stalker [6100001]', 'Stalker [6140001]', 'Stalker [6180001]', 'Adept [49C0001]', 'Zealot [3F80001]', 'Zealot [4940001]', 'Zealot [5840001]', 'Zealot [5880001]', 'Zealot [5CC0001]', 'Zealot [5D00001]', 'Observer [53C0004]', 'ObserverSiegeMode [60C0001]']
+09.48	grEEngLade      SelectionEvent['OrbitalCommand [56C0001]']
+09.48	grEEngLade      Right Click; Location: (99.642333984375, 23.507080078125, 40900)
+09.48	grEEngLade      Right Click; Target: None [00000000]; Location: (98.0, 22.5, 40896)
+09.48	Floyd           Ability (5A0) - Attack; Location: (125.82080078125, 25.640625, 49091)
+09.49	grEEngLade      Ability (1142) - UnloadTargetMedivac; Location: (99.611328125, 23.995361328125, 40900)
+09.50	grEEngLade      Ability (1360) - TrainSCV
+09.50	Floyd           Right Click; Location: (134.496337890625, 58.904052734375, 40900)
+09.51	Floyd           SelectionEvent['WarpGate [39C0001]', 'WarpGate [3F00001]', 'WarpGate [5100001]', 'WarpGate [5780001]']
+09.52	Floyd           Ability (1AC0) - WarpInZealot; Location: (138.537353515625, 33.3486328125, 49091)
+09.53	Floyd           Right Click; Location: (136.698486328125, 33.49267578125, 49091)
+09.53	Floyd           Right Click; Location: (135.43115234375, 33.49267578125, 49091)
+09.53	Floyd           Right Click; Location: (134.1943359375, 33.5107421875, 49091)
+09.54	grEEngLade      SelectionEvent['SCV [3480001]']
+09.55	Floyd           SelectionEvent['Nexus [3100001]']
+09.55	grEEngLade      Ability (102D) - BuildArmory; Location: (44.5, 130.5, 49082)
+09.55	Floyd           Ability (15E0) - TrainProbe
+09.56	grEEngLade      Right Click; Target: MineralField [02500001]; Location: (20.0, 75.5, 32704)
+09.57	grEEngLade      SelectionEvent['SCV [4A40004]']
+09.58	grEEngLade      Ability (1028) - BuildSensorTower; Location: (17.5, 73.5, 32706)
+09.58	grEEngLade      Right Click; Target: MineralField750 [01540001]; Location: (19.0, 74.5, 32704)
+09.59	Floyd           SelectionEvent['Probe [3900001]']
+09.59	grEEngLade      SelectionEvent['SCV [5900001]']
+10.00	Floyd           Right Click; Target: MineralField [01B80001]; Location: (157.0, 79.5, 32704)
+10.00	grEEngLade      Ability (1028) - BuildSensorTower; Location: (37.5, 98.5, 40894)
+10.02	grEEngLade      Right Click; Target: MineralField750 [01540001]; Location: (19.0, 74.5, 32704)
+10.03	grEEngLade      Ability (1360) - TrainSCV
+10.04	grEEngLade      Ability (13E0) - TrainMarine
+10.04	Floyd           SelectionEvent['Sentry [4580001]', 'Sentry [5240002]', 'Sentry [6240001]', 'Stalker [4240001]', 'Stalker [4600001]', 'Stalker [5080001]', 'Stalker [50C0001]', 'Stalker [6100001]', 'Stalker [6140001]', 'Stalker [6180001]', 'Adept [49C0001]', 'Zealot [3780006]', 'Zealot [3F80001]', 'Zealot [4940001]', 'Zealot [4A00004]', 'Zealot [52C0003]', 'Zealot [5340002]', 'Zealot [5840001]', 'Zealot [5880001]', 'Zealot [5CC0001]', 'Zealot [5D00001]', 'Observer [53C0004]', 'ObserverSiegeMode [60C0001]']
+10.05	grEEngLade      SelectionEvent[]
+10.05	Floyd           Right Click; Location: (143.48291015625, 58.856201171875, 40900)
+10.06	Floyd           Right Click; Location: (131.83544921875, 59.68310546875, 40907)
+10.08	grEEngLade      SelectionEvent['Marine [3400002]', 'Marine [3F40002]', 'Marine [5BC0001]', 'Marine [5E80001]', 'Marine [5EC0001]', 'Marauder [3800002]', 'Marauder [6000001]', 'SiegeTank [3D00003]', 'SiegeTankSieged [5E40001]', 'Medivac [5580001]', 'Medivac [55C0001]', 'Medivac [5F80001]']
+10.08	grEEngLade      SelectionEvent['Marine [3400002]', 'Marine [3E00002]', 'Marine [3F40002]', 'Marine [4380002]', 'Marine [4680001]', 'Marine [46C0001]', 'Marine [4B80002]', 'Marine [4C40002]', 'Marine [4C80002]', 'Marine [5400001]', 'Marine [5480001]', 'Marine [5700001]', 'Marine [5740001]', 'Marine [57C0001]', 'Marine [5BC0001]', 'Marine [5C00001]', 'Marine [5E80001]', 'Marine [5EC0001]', 'Marauder [3800002]', 'Marauder [5C40001]', 'Marauder [6000001]', 'SiegeTank [3D00003]', 'SiegeTank [4EC0001]', 'SiegeTank [5680001]', 'SiegeTankSieged [5E40001]', 'Medivac [5580001]', 'Medivac [55C0001]', 'Medivac [5A80001]', 'Medivac [5AC0001]', 'Medivac [5F80001]']
+10.08	grEEngLade      SelectionEvent['Marine [3400002]', 'Marine [3E00002]', 'Marine [3F40002]', 'Marine [4380002]', 'Marine [4680001]', 'Marine [46C0001]', 'Marine [4B80002]', 'Marine [4C40002]', 'Marine [4C80002]', 'Marine [5400001]', 'Marine [5480001]', 'Marine [5700001]', 'Marine [5740001]', 'Marine [57C0001]', 'Marine [5BC0001]', 'Marine [5C00001]', 'Marine [5E80001]', 'Marine [5EC0001]', 'Marauder [3800002]', 'Marauder [5C40001]', 'Marauder [6000001]', 'SiegeTank [3D00003]', 'SiegeTank [4EC0001]', 'SiegeTank [5680001]', 'SiegeTankSieged [5E40001]', 'Medivac [5A80001]', 'Medivac [5AC0001]', 'Medivac [5F80001]']
+10.08	grEEngLade      SelectionEvent['Marine [3400002]', 'Marine [3E00002]', 'Marine [3F40002]', 'Marine [4380002]', 'Marine [4680001]', 'Marine [46C0001]', 'Marine [4B80002]', 'Marine [4C40002]', 'Marine [4C80002]', 'Marine [5400001]', 'Marine [5480001]', 'Marine [5700001]', 'Marine [5740001]', 'Marine [57C0001]', 'Marine [5BC0001]', 'Marine [5C00001]', 'Marine [5E80001]', 'Marine [5EC0001]', 'Marauder [3800002]', 'Marauder [5C40001]', 'Marauder [6000001]', 'SiegeTank [3D00003]', 'SiegeTank [4EC0001]', 'SiegeTank [5680001]', 'SiegeTankSieged [5E40001]', 'Medivac [5580001]', 'Medivac [55C0001]', 'Medivac [5A80001]', 'Medivac [5AC0001]', 'Medivac [5F80001]']
+10.08	grEEngLade      SelectionEvent['Marine [3400002]', 'Marine [3E00002]', 'Marine [3F40002]', 'Marine [4380002]', 'Marine [4680001]', 'Marine [46C0001]', 'Marine [4B80002]', 'Marine [4C40002]', 'Marine [4C80002]', 'Marine [5400001]', 'Marine [5480001]', 'Marine [5700001]', 'Marine [5740001]', 'Marine [57C0001]', 'Marine [5BC0001]', 'Marine [5C00001]', 'Marine [5E80001]', 'Marine [5EC0001]', 'Marauder [3800002]', 'Marauder [5C40001]', 'Marauder [6000001]', 'SiegeTank [3D00003]', 'SiegeTank [4EC0001]', 'SiegeTank [5680001]', 'SiegeTankSieged [5E40001]', 'Medivac [5580001]', 'Medivac [55C0001]', 'Medivac [5A80001]', 'Medivac [5AC0001]', 'Medivac [5F80001]']
+10.09	Floyd           SelectionEvent[]
+10.11	grEEngLade      SelectionEvent[]
+10.11	Floyd           Right Click; Location: (34.328125, 64.52392578125, 32704)
+10.11	grEEngLade      SelectionEvent['Marine [3E00002]', 'Marine [4380002]', 'Marine [4680001]', 'Marine [46C0001]', 'Marine [4B80002]', 'Marine [4C40002]', 'Marine [4C80002]', 'Marine [5400001]', 'Marine [5480001]', 'Marine [5700001]', 'Marine [5740001]', 'Marine [57C0001]', 'Marine [5BC0001]', 'Medivac [5580001]', 'Medivac [55C0001]']
+10.11	grEEngLade      SelectionEvent[]
+10.11	grEEngLade      SelectionEvent['Marine [3E00002]', 'Marine [4380002]', 'Marine [4680001]', 'Marine [46C0001]', 'Marine [4B80002]', 'Marine [4C40002]', 'Marine [4C80002]', 'Marine [5400001]', 'Marine [5480001]', 'Marine [5700001]', 'Marine [5740001]', 'Marine [57C0001]', 'Marine [5BC0001]', 'Medivac [5580001]', 'Medivac [55C0001]']
+10.11	grEEngLade      SelectionEvent['Marine [3E00002]', 'Marine [4380002]', 'Marine [4680001]', 'Marine [46C0001]', 'Marine [4B80002]', 'Marine [4C40002]', 'Marine [4C80002]', 'Marine [5400001]', 'Marine [5480001]', 'Marine [5700001]', 'Marine [5740001]', 'Marine [57C0001]', 'Marine [5BC0001]', 'Medivac [5580001]', 'Medivac [55C0001]']
+10.11	grEEngLade      SelectionEvent['Marine [3E00002]', 'Marine [4380002]', 'Marine [4680001]', 'Marine [46C0001]', 'Marine [4B80002]', 'Marine [4C40002]', 'Marine [4C80002]', 'Marine [5400001]', 'Marine [5480001]', 'Marine [5700001]', 'Marine [5740001]', 'Marine [57C0001]', 'Marine [5BC0001]', 'Medivac [5580001]', 'Medivac [55C0001]']
+10.12	grEEngLade      Right Click; Target: Medivac [05580001]; Location: (100.104736328125, 23.098388671875, 56268)
+10.12	grEEngLade      SelectionEvent[]
+10.12	grEEngLade      Right Click; Target: Medivac [055C0001]; Location: (99.159912109375, 24.814697265625, 56272)
+10.12	grEEngLade      SelectionEvent[]
+10.13	Floyd           SelectionEvent['ObserverSiegeMode [60C0001]']
+10.15	Floyd           Right Click; Location: (55.43505859375, 81.641845703125, 32704)
+10.15	Floyd           SelectionEvent['WarpGate [39C0001]', 'WarpGate [3F00001]', 'WarpGate [5100001]', 'WarpGate [5780001]']
+10.16	Floyd           SelectionEvent['Nexus [3C00001]']
+10.16	Floyd           Ability (15E0) - TrainProbe
+10.17	grEEngLade      Ability (1160) - ScannerSweep; Location: (144.08740234375, 54.611572265625, 40900)
+10.17	Floyd           Ability (5980); Target: Nexus [03C00001]; Location: (146.5, 52.5, 40896)
+10.19	grEEngLade      Right Click; Location: (107.9111328125, 24.279541015625, 32732)
+10.19	grEEngLade      Ability (3280) - ExtendingBridgeNEWide10
+10.19	Floyd           Right Click; Target: None [00000000]; Location: (156.0, 82.5, 32704)
+10.21	grEEngLade      Ability (1142) - UnloadTargetMedivac; Location: (138.01171875, 21.263427734375, 49091)
+10.22	grEEngLade      Ability (13E3) - TrainMarauder
+10.22	Floyd           SelectionEvent['Nexus [3100001]']
+10.23	Floyd           Ability (15E0) - TrainProbe
+10.23	grEEngLade      SelectionEvent[]
+10.23	grEEngLade      Ability (1401) - BuildSiegeTank
+10.23	grEEngLade      SelectionEvent[]
+10.24	Floyd           Ability (5980); Target: Nexus [03100001]; Location: (145.5, 24.5, 49088)
+10.25	Floyd           SelectionEvent['Probe [3B80001]', 'Probe [4100001]', 'Probe [4D00002]']
+10.26	grEEngLade      Ability (1360) - TrainSCV
+10.26	Floyd           Right Click; Target: Assimilator [03A40001]; Location: (152.5, 27.5, 49088)
+10.27	Floyd           SelectionEvent['Sentry [4580001]', 'Sentry [5240002]', 'Sentry [6240001]', 'Stalker [4240001]', 'Stalker [4600001]', 'Stalker [5080001]', 'Stalker [50C0001]', 'Stalker [6100001]', 'Stalker [6140001]', 'Stalker [6180001]', 'Adept [49C0001]', 'Zealot [3780006]', 'Zealot [3F80001]', 'Zealot [4940001]', 'Zealot [4A00004]', 'Zealot [52C0003]', 'Zealot [5340002]', 'Zealot [5840001]', 'Zealot [5880001]', 'Zealot [5CC0001]', 'Zealot [5D00001]', 'Observer [53C0004]', 'ObserverSiegeMode [60C0001]', 'ObserverSiegeMode [63C0001]']
+10.27	Floyd           Ability (5A0) - Attack; Location: (137.641845703125, 18.926025390625, 49091)
+10.28	Floyd           SelectionEvent['Probe [3140001]', 'Probe [3200001]', 'Probe [3240001]', 'Probe [32C0001]', 'Probe [3340001]', 'Probe [3380001]', 'Probe [33C0001]', 'Probe [3A80001]', 'Probe [3B80001]', 'Probe [3C40001]', 'Probe [4800001]', 'Probe [4D00002]', 'Probe [5000001]', 'Probe [6380001]', 'Probe [64C0001]']
+10.28	Floyd           Right Click; Location: (156.830078125, 32.06640625, 49092)
+10.29	Floyd           Right Click; Location: (156.739501953125, 31.554931640625, 49091)
+10.29	grEEngLade      SelectionEvent['SCV [3680001]', 'SCV [3B00001]']
+10.30	Floyd           SelectionEvent['Sentry [4580001]', 'Sentry [5240002]', 'Sentry [6240001]', 'Stalker [4240001]', 'Stalker [4600001]', 'Stalker [5080001]', 'Stalker [50C0001]', 'Stalker [6100001]', 'Stalker [6140001]', 'Stalker [6180001]', 'Adept [49C0001]', 'Zealot [3780006]', 'Zealot [3F80001]', 'Zealot [4940001]', 'Zealot [4A00004]', 'Zealot [52C0003]', 'Zealot [5340002]', 'Zealot [5840001]', 'Zealot [5880001]', 'Zealot [5CC0001]', 'Zealot [5D00001]', 'Observer [53C0004]', 'ObserverSiegeMode [60C0001]', 'ObserverSiegeMode [63C0001]']
+10.30	Floyd           Ability (5A0) - Attack; Location: (146.5087890625, 13.8193359375, 49096)
+10.30	grEEngLade      Ability (1021) - BuildSupplyDepot; Location: (19.0, 121.0, 49082)
+10.30	grEEngLade      Ability (5A0) - Attack; Location: (18.987548828125, 121.343505859375, 49091)
+10.32	grEEngLade      Ability (1021) - BuildSupplyDepot; Location: (19.0, 123.0, 49082)
+10.32	grEEngLade      Right Click; Location: (19.0, 121.0, 49082)
+10.32	Floyd           SelectionEvent['TwilightCouncil [4500001]']
+10.33	grEEngLade      Right Click; Target: MineralField [02080001]; Location: (24.0, 123.5, 49088)
+10.34	grEEngLade      SelectionEvent['Marine [4380002]', 'Marine [46C0001]']
+10.34	Floyd           Ability (1DA1) - ResearchBlink
+10.34	grEEngLade      Ability (1060) - UseStimpack
+10.35	Floyd           SelectionEvent['Sentry [4580001]', 'Sentry [5240002]', 'Sentry [6240001]', 'Stalker [4240001]', 'Stalker [4600001]', 'Stalker [5080001]', 'Stalker [50C0001]', 'Stalker [6100001]', 'Stalker [6140001]', 'Stalker [6180001]', 'Adept [49C0001]', 'Zealot [3780006]', 'Zealot [3F80001]', 'Zealot [4940001]', 'Zealot [4A00004]', 'Zealot [52C0003]', 'Zealot [5340002]', 'Zealot [5840001]', 'Zealot [5880001]', 'Zealot [5CC0001]', 'Zealot [5D00001]', 'Observer [53C0004]', 'ObserverSiegeMode [60C0001]', 'ObserverSiegeMode [63C0001]']
+10.35	grEEngLade      Ability (5A0) - Attack; Target: Forge [04F40002]; Location: (141.5, 22.5, 49088)
+10.36	Floyd           Ability (5A0) - Attack; Location: (142.982666015625, 20.379638671875, 49091)
+10.37	grEEngLade      SelectionEvent['Marine [4B80002]', 'Marine [4C80002]', 'Marine [57C0001]']
+10.38	grEEngLade      Right Click; Target: Forge [04F40002]; Location: (141.5, 22.5, 49088)
+10.38	Floyd           Right Click; Location: (134.73388671875, 18.060791015625, 49091)
+10.39	Floyd           Right Click; Location: (135.1083984375, 17.58203125, 49091)
+10.39	Floyd           Right Click; Location: (135.64794921875, 16.913330078125, 49091)
+10.39	Floyd           Right Click; Location: (136.124267578125, 16.50537109375, 49091)
+10.41	Floyd           Right Click; Location: (134.695068359375, 20.796630859375, 49091)
+10.41	Floyd           Right Click; Target: Medivac [055C0001]; Location: (137.648193359375, 21.91650390625, 64448)
+10.42	grEEngLade      Right Click; Target: Medivac [05580001]; Location: (138.388916015625, 20.584228515625, 64448)
+10.43	grEEngLade      SelectionEvent[]
+10.43	grEEngLade      Right Click; Target: Medivac [055C0001]; Location: (137.648193359375, 21.91650390625, 64448)
+10.43	grEEngLade      SelectionEvent[]
+10.43	grEEngLade      SelectionEvent['Medivac [5580001]', 'Medivac [55C0001]']
+10.43	grEEngLade      Right Click; Location: (136.742431640625, 24.830810546875, 49091)
+10.43	grEEngLade      Ability (3280) - ExtendingBridgeNEWide10
+10.44	grEEngLade      Right Click; Location: (130.4638671875, 22.26611328125, 49091)
+10.44	grEEngLade      Right Click; Location: (129.521728515625, 21.80126953125, 49091)
+10.44	grEEngLade      Right Click; Location: (128.0361328125, 21.255126953125, 49091)
+10.44	grEEngLade      SelectionEvent[]
+10.44	grEEngLade      Right Click; Location: (123.4423828125, 19.5888671875, 49091)
+10.44	grEEngLade      Right Click; Location: (106.961181640625, 22.0302734375, 32732)
+10.45	grEEngLade      Right Click; Location: (102.859619140625, 21.278076171875, 33074)
+10.45	grEEngLade      Right Click; Location: (103.695068359375, 22.248046875, 30720)
+10.45	grEEngLade      Right Click; Location: (103.49951171875, 21.999267578125, 32514)
+10.45	grEEngLade      Right Click; Location: (103.192138671875, 21.677490234375, 35434)
+10.46	Floyd           Right Click; Target: Medivac [05580001]; Location: (129.966064453125, 21.4296875, 64448)
+10.46	grEEngLade      Right Click; Location: (103.129150390625, 21.705078125, 35683)
+10.48	grEEngLade      Right Click; Location: (109.99267578125, 23.96826171875, 32732)
+10.48	grEEngLade      Right Click; Location: (108.890869140625, 23.793701171875, 32732)
+10.49	grEEngLade      Right Click; Location: (105.341064453125, 23.717041015625, 32717)
+10.49	Floyd           Ability (5A0) - Attack; Location: (129.222412109375, 30.812744140625, 49091)
+10.49	grEEngLade      SelectionEvent['Medivac [5580001]']
+10.49	grEEngLade      SelectionEvent['Medivac [5580001]']
+10.49	grEEngLade      SelectionEvent['Medivac [5580001]']
+10.49	grEEngLade      SelectionEvent['Medivac [5580001]']
+10.50	grEEngLade      Right Click; Location: (102.429931640625, 21.4453125, 40901)
+10.50	grEEngLade      Right Click; Location: (102.809326171875, 21.359375, 40973)
+10.51	grEEngLade      Right Click; Location: (101.524658203125, 21.156005859375, 40918)
+10.51	grEEngLade      Right Click; Location: (101.2255859375, 21.04345703125, 40909)
+10.51	Floyd           SelectionEvent['Probe [3140001]', 'Probe [3200001]', 'Probe [3240001]', 'Probe [32C0001]', 'Probe [3340001]', 'Probe [3380001]', 'Probe [33C0001]', 'Probe [3A80001]', 'Probe [3B80001]', 'Probe [3C40001]', 'Probe [4800001]', 'Probe [4D00002]', 'Probe [5000001]', 'Probe [6380001]', 'Probe [64C0001]']
+10.52	Floyd           Right Click; Target: MineralField750 [00CC0001]; Location: (150.0, 18.5, 49088)
+10.52	grEEngLade      Right Click; Location: (37.068603515625, 76.302490234375, 34127)
+10.53	Floyd           SelectionEvent['Nexus [3100001]']
+10.53	Floyd           Ability (15E0) - TrainProbe
+10.53	grEEngLade      Ability (1142) - UnloadTargetMedivac; Location: (41.527099609375, 85.531005859375, 40900)
+10.55	grEEngLade      Ability (13E0) - TrainMarine
+10.55	grEEngLade      Ability (13E3) - TrainMarauder
+10.56	grEEngLade      SelectionEvent[]
+10.56	grEEngLade      Ability (1420) - TrainMedivac
+10.56	grEEngLade      Ability (1426) - TrainLiberator
+10.56	Floyd           SelectionEvent['Nexus [5E00001]']
+10.57	Floyd           Ability (5980); Target: Nexus [05E00001]; Location: (150.5, 77.5, 32704)
+10.58	Floyd           SelectionEvent['WarpGate [39C0001]', 'WarpGate [3F00001]', 'WarpGate [5100001]', 'WarpGate [5780001]']
+10.58	grEEngLade      SelectionEvent['SiegeTank [3D00003]', 'SiegeTank [4EC0001]', 'SiegeTank [5680001]', 'SiegeTankSieged [5E40001]']
+10.58	grEEngLade      Ability (1100) - TankMode
+10.59	Floyd           Ability (1AC3) - WarpInHighTemplar; Location: (139.4931640625, 51.52001953125, 40900)
+10.59	Floyd           Right Click; Location: (140.230712890625, 50.607666015625, 40900)
+11.00	grEEngLade      SelectionEvent['Marine [3400002]', 'Marine [3F40002]', 'Marine [5C00001]', 'Marine [5E80001]', 'Marine [5EC0001]', 'Marine [6540001]', 'Marine [6580001]', 'Marauder [3800002]', 'Marauder [5C40001]', 'Marauder [6000001]', 'Marauder [6200002]', 'Medivac [5580001]', 'Medivac [5A80001]', 'Medivac [5AC0001]', 'Medivac [5F80001]', 'Medivac [6400001]']
+11.01	Floyd           SelectionEvent['Nexus [3C00001]']
+11.01	Floyd           Ability (15E0) - TrainProbe
+11.01	grEEngLade      SelectionEvent['Marine [3400002]', 'Marine [3F40002]', 'Marine [5C00001]', 'Marine [5E80001]', 'Marine [5EC0001]', 'Marine [6540001]', 'Marine [6580001]', 'Marauder [3800002]', 'Marauder [5C40001]', 'Marauder [6000001]', 'Marauder [6200002]', 'SiegeTank [3D00003]', 'SiegeTank [4EC0001]', 'SiegeTank [5680001]', 'SiegeTankSieged [5E40001]', 'Medivac [5580001]', 'Medivac [5A80001]', 'Medivac [5AC0001]', 'Medivac [5F80001]', 'Medivac [6400001]']
+11.01	grEEngLade      SelectionEvent['Marine [3400002]', 'Marine [3F40002]', 'Marine [5C00001]', 'Marine [5E80001]', 'Marine [5EC0001]', 'Marine [6540001]', 'Marine [6580001]', 'Marauder [3800002]', 'Marauder [5C40001]', 'Marauder [6000001]', 'Marauder [6200002]', 'SiegeTank [3D00003]', 'SiegeTank [4EC0001]', 'SiegeTank [5680001]', 'SiegeTankSieged [5E40001]', 'Medivac [5A80001]', 'Medivac [5AC0001]', 'Medivac [5F80001]', 'Medivac [6400001]']
+11.01	grEEngLade      SelectionEvent['Marine [3400002]', 'Marine [3F40002]', 'Marine [5C00001]', 'Marine [5E80001]', 'Marine [5EC0001]', 'Marine [6540001]', 'Marine [6580001]', 'Marauder [3800002]', 'Marauder [5C40001]', 'Marauder [6000001]', 'Marauder [6200002]', 'SiegeTank [3D00003]', 'SiegeTank [4EC0001]', 'SiegeTank [5680001]', 'SiegeTankSieged [5E40001]', 'Medivac [5580001]', 'Medivac [5A80001]', 'Medivac [5AC0001]', 'Medivac [5F80001]', 'Medivac [6400001]']
+11.01	grEEngLade      SelectionEvent['Marine [3400002]', 'Marine [3F40002]', 'Marine [5C00001]', 'Marine [5E80001]', 'Marine [5EC0001]', 'Marine [6540001]', 'Marine [6580001]', 'Marauder [3800002]', 'Marauder [5C40001]', 'Marauder [6000001]', 'Marauder [6200002]', 'SiegeTank [3D00003]', 'SiegeTank [4EC0001]', 'SiegeTank [5680001]', 'SiegeTankSieged [5E40001]', 'Medivac [5580001]', 'Medivac [5A80001]', 'Medivac [5AC0001]', 'Medivac [5F80001]', 'Medivac [6400001]']
+11.03	grEEngLade      SelectionEvent[]
+11.03	Floyd           SelectionEvent['Probe [4300006]', 'Probe [5640001]']
+11.03	grEEngLade      SelectionEvent['Medivac [5580001]']
+11.03	grEEngLade      SelectionEvent[]
+11.03	grEEngLade      SelectionEvent['Medivac [5580001]']
+11.03	grEEngLade      SelectionEvent['Medivac [5580001]']
+11.03	grEEngLade      SelectionEvent['Medivac [5580001]']
+11.05	Floyd           Right Click; Target: MineralField750 [00A00001]; Location: (158.0, 78.5, 32704)
+11.05	grEEngLade      Ability (1360) - TrainSCV
+11.07	grEEngLade      SelectionEvent['SCV [3B40002]']
+11.08	grEEngLade      Right Click; Location: (35.86865234375, 72.8623046875, 32708)
+11.09	grEEngLade      Ability (1021) - BuildSupplyDepot; Location: (39.0, 71.0, 32715)
+11.09	Floyd           SelectionEvent['Observer [53C0004]']
+11.10	grEEngLade      Right Click; Target: MineralField [02500001]; Location: (20.0, 75.5, 32704)
+11.11	Floyd           Right Click; Location: (35.5341796875, 42.51513671875, 40912)
+11.11	grEEngLade      SelectionEvent['OrbitalCommand [56C0001]']
+11.11	grEEngLade      Ability (1CC0) - LiftOrbitalCommand
+11.12	grEEngLade      SelectionEvent['OrbitalCommand [56C0001]']
+11.12	grEEngLade      SelectionEvent['OrbitalCommand [56C0001]']
+11.12	Floyd           SelectionEvent['ObserverSiegeMode [63C0001]']
+11.13	grEEngLade      Ability (1CE0) - LandOrbitalCommand; Location: (25.5, 70.5, 32708)
+11.14	Floyd           Right Click; Location: (54.22900390625, 68.192138671875, 32704)
+11.14	grEEngLade      SelectionEvent['SCV [4140001]']
+11.15	Floyd           SelectionEvent['ObserverSiegeMode [60C0001]']
+11.15	grEEngLade      SelectionEvent['EngineeringBay [5200001]', 'EngineeringBay [5280001]']
+11.16	grEEngLade      SelectionEvent['EngineeringBay [5200001]', 'EngineeringBay [5280001]']
+11.16	grEEngLade      SelectionEvent['EngineeringBay [5200001]', 'EngineeringBay [5280001]']
+11.16	grEEngLade      SelectionEvent['EngineeringBay [5200001]', 'EngineeringBay [5280001]']
+11.16	grEEngLade      SelectionEvent['EngineeringBay [5200001]', 'EngineeringBay [5280001]']
+11.16	Floyd           Right Click; Location: (73.526611328125, 99.982421875, 32704)
+11.16	grEEngLade      SelectionEvent[]
+11.16	grEEngLade      Ability (1443) - UpgradeTerranInfantryWeapons2
+11.16	Floyd           SelectionEvent['WarpGate [39C0001]', 'WarpGate [3F00001]', 'WarpGate [5100001]', 'WarpGate [5780001]']
+11.17	grEEngLade      SelectionEvent['Armory [31C0002]']
+11.17	grEEngLade      SelectionEvent['Armory [31C0002]']
+11.17	grEEngLade      SelectionEvent['Armory [31C0002]']
+11.17	grEEngLade      SelectionEvent['Armory [31C0002]']
+11.17	grEEngLade      SelectionEvent['Armory [31C0002]']
+11.18	Floyd           SelectionEvent['RoboticsFacility [5800001]']
+11.19	Floyd           Ability (15C3) - TrainImmortal
+11.22	Floyd           Ability (5980); Target: Forge [04280002]; Location: (141.5, 25.5, 49088)
+11.22	Floyd           SelectionEvent['Forge [4280002]']
+11.22	grEEngLade      SelectionEvent['SCV [4BC0002]', 'SCV [4E40002]']
+11.24	grEEngLade      Ability (1021) - BuildSupplyDepot; Location: (21.0, 90.0, 40894)
+11.24	Floyd           SelectionEvent['RoboticsFacility [5800001]']
+11.25	grEEngLade      Right Click; Location: (22.0, 88.0, 40913)
+11.25	Floyd           SelectionEvent['Forge [4280002]']
+11.27	grEEngLade      Right Click; Target: LabMineralField750 [01840001]; Location: (24.0, 100.5, 40896)
+11.28	Floyd           SelectionEvent['WarpGate [39C0001]', 'WarpGate [3F00001]', 'WarpGate [5100001]', 'WarpGate [5780001]']
+11.30	Floyd           Ability (1AC0) - WarpInZealot; Location: (138.89990234375, 33.082275390625, 49091)
+11.30	Floyd           Right Click; Location: (138.109619140625, 32.945556640625, 49091)
+11.30	grEEngLade      SelectionEvent['SCV [3180003]', 'SCV [36C0001]']
+11.31	grEEngLade      Ability (1000) - SCVRepair; Target: Medivac [05580001]; Location: (41.527099609375, 85.531005859375, 56256)
+11.32	Floyd           SelectionEvent['Forge [4280002]']
+11.33	grEEngLade      Right Click; Target: MineralField [02000001]; Location: (19.0, 72.5, 32704)
+11.34	Floyd           Ability (1683) - UpgradeGroundArmor1
+11.34	grEEngLade      Ability (1360) - TrainSCV
+11.35	grEEngLade      Ability (13E0) - TrainMarine
+11.35	grEEngLade      Ability (13E3) - TrainMarauder
+11.36	Floyd           SelectionEvent['Probe [3380001]']
+11.36	grEEngLade      SelectionEvent[]
+11.36	grEEngLade      Ability (1401) - BuildSiegeTank
+11.37	Floyd           SelectionEvent['Probe [6640001]']
+11.37	Floyd           Right Click; Target: Assimilator [03A40001]; Location: (152.5, 27.5, 49088)
+11.38	grEEngLade      SelectionEvent['Armory [31C0002]']
+11.39	grEEngLade      SelectionEvent['Armory [31C0002]']
+11.39	grEEngLade      SelectionEvent['Armory [31C0002]']
+11.39	grEEngLade      SelectionEvent['Armory [31C0002]']
+11.39	grEEngLade      SelectionEvent['Armory [31C0002]']
+11.39	Floyd           SelectionEvent['Probe [3340001]']
+11.40	Floyd           Right Click; Target: Assimilator [04000002]; Location: (141.5, 17.5, 49088)
+11.41	Floyd           SelectionEvent['Probe [3140001]']
+11.41	Floyd           Right Click; Target: Assimilator [04000002]; Location: (141.5, 17.5, 49088)
+11.42	grEEngLade      Right Click; Location: (44.658935546875, 83.66455078125, 40907)
+11.42	grEEngLade      Right Click; Location: (45.004638671875, 83.727294921875, 40907)
+11.42	Floyd           SelectionEvent['Probe [6380001]']
+11.42	grEEngLade      Right Click; Location: (45.711669921875, 83.90625, 40907)
+11.43	Floyd           Right Click; Target: Assimilator [04000002]; Location: (141.5, 17.5, 49088)
+11.43	grEEngLade      SelectionEvent['Marine [4680001]', 'Marine [46C0001]', 'Marine [4C80002]', 'Marine [5400001]', 'Marine [5480001]', 'Marine [5700001]', 'Marine [5740001]', 'Marine [5BC0001]', 'Marine [6800002]', 'Marine [6840001]']
+11.43	grEEngLade      SelectionEvent['Marine [3400002]', 'Marine [3F40002]', 'Marine [4680001]', 'Marine [46C0001]', 'Marine [4C80002]', 'Marine [5400001]', 'Marine [5480001]', 'Marine [5700001]', 'Marine [5740001]', 'Marine [5BC0001]', 'Marine [5C00001]', 'Marine [5E80001]', 'Marine [5EC0001]', 'Marine [6540001]', 'Marine [6580001]', 'Marine [6800002]', 'Marine [6840001]']
+11.43	grEEngLade      SelectionEvent['Marine [3400002]', 'Marine [3F40002]', 'Marine [4680001]', 'Marine [46C0001]', 'Marine [4C80002]', 'Marine [5400001]', 'Marine [5480001]', 'Marine [5700001]', 'Marine [5740001]', 'Marine [5BC0001]', 'Marine [5C00001]', 'Marine [5E80001]', 'Marine [5EC0001]', 'Marine [6540001]', 'Marine [6580001]', 'Marine [6800002]', 'Marine [6840001]']
+11.43	grEEngLade      SelectionEvent['Marine [3400002]', 'Marine [3F40002]', 'Marine [4680001]', 'Marine [46C0001]', 'Marine [4C80002]', 'Marine [5400001]', 'Marine [5480001]', 'Marine [5700001]', 'Marine [5740001]', 'Marine [5BC0001]', 'Marine [5C00001]', 'Marine [5E80001]', 'Marine [5EC0001]', 'Marine [6540001]', 'Marine [6580001]', 'Marine [6800002]', 'Marine [6840001]']
+11.44	grEEngLade      SelectionEvent['Marine [3400002]', 'Marine [3F40002]', 'Marine [4680001]', 'Marine [46C0001]', 'Marine [4C80002]', 'Marine [5400001]', 'Marine [5480001]', 'Marine [5700001]', 'Marine [5740001]', 'Marine [5BC0001]', 'Marine [5C00001]', 'Marine [5E80001]', 'Marine [5EC0001]', 'Marine [6540001]', 'Marine [6580001]', 'Marine [6800002]', 'Marine [6840001]']
+11.44	Floyd           SelectionEvent['Probe [3C40001]']
+11.44	grEEngLade      Right Click; Location: (40.7490234375, 70.193115234375, 32715)
+11.45	grEEngLade      Right Click; Location: (42.13037109375, 71.29248046875, 32715)
+11.45	grEEngLade      Right Click; Location: (43.024169921875, 71.016357421875, 32715)
+11.45	Floyd           Right Click; Location: (145.231201171875, 17.594482421875, 49091)
+11.45	grEEngLade      Ability (5A0) - Attack; Location: (40.960205078125, 68.1201171875, 32715)
+11.46	grEEngLade      Right Click; Location: (37.59228515625, 68.439453125, 32715)
+11.46	Floyd           Ability (1547) - BuildPhotonCannon; Location: (146.0, 16.0, 49091)
+11.48	Floyd           Right Click; Location: (142.0, 23.0, 49091)
+11.49	grEEngLade      SelectionEvent['Marauder [6900001]', 'SiegeTankSieged [3E00003]', 'Medivac [5580001]', 'Medivac [6AC0001]']
+11.49	grEEngLade      SelectionEvent['Marine [3400002]', 'Marine [3F40002]', 'Marine [4680001]', 'Marine [46C0001]', 'Marine [4C80002]', 'Marine [5400001]', 'Marine [5480001]', 'Marine [5700001]', 'Marine [5740001]', 'Marine [5BC0001]', 'Marine [5C00001]', 'Marine [5E80001]', 'Marine [5EC0001]', 'Marine [6540001]', 'Marine [6580001]', 'Marine [6800002]', 'Marine [6840001]', 'Marauder [3800002]', 'Marauder [5C40001]', 'Marauder [6000001]', 'Marauder [6200002]', 'Marauder [6900001]', 'SiegeTank [3D00003]', 'SiegeTankSieged [3E00003]', 'SiegeTank [4EC0001]', 'SiegeTank [5680001]', 'SiegeTankSieged [5E40001]', 'Medivac [5580001]', 'Medivac [5A80001]', 'Medivac [5AC0001]', 'Medivac [5F80001]', 'Medivac [6400001]', 'Medivac [6AC0001]']
+11.49	grEEngLade      SelectionEvent['Marine [3400002]', 'Marine [3F40002]', 'Marine [4680001]', 'Marine [46C0001]', 'Marine [4C80002]', 'Marine [5400001]', 'Marine [5480001]', 'Marine [5700001]', 'Marine [5740001]', 'Marine [5BC0001]', 'Marine [5C00001]', 'Marine [5E80001]', 'Marine [5EC0001]', 'Marine [6540001]', 'Marine [6580001]', 'Marine [6800002]', 'Marine [6840001]', 'Marauder [3800002]', 'Marauder [5C40001]', 'Marauder [6000001]', 'Marauder [6200002]', 'Marauder [6900001]', 'SiegeTank [3D00003]', 'SiegeTankSieged [3E00003]', 'SiegeTank [4EC0001]', 'SiegeTank [5680001]', 'SiegeTankSieged [5E40001]', 'Medivac [5A80001]', 'Medivac [5AC0001]', 'Medivac [5F80001]', 'Medivac [6400001]', 'Medivac [6AC0001]']
+11.49	grEEngLade      SelectionEvent['Marine [3400002]', 'Marine [3F40002]', 'Marine [4680001]', 'Marine [46C0001]', 'Marine [4C80002]', 'Marine [5400001]', 'Marine [5480001]', 'Marine [5700001]', 'Marine [5740001]', 'Marine [5BC0001]', 'Marine [5C00001]', 'Marine [5E80001]', 'Marine [5EC0001]', 'Marine [6540001]', 'Marine [6580001]', 'Marine [6800002]', 'Marine [6840001]', 'Marauder [3800002]', 'Marauder [5C40001]', 'Marauder [6000001]', 'Marauder [6200002]', 'Marauder [6900001]', 'SiegeTank [3D00003]', 'SiegeTankSieged [3E00003]', 'SiegeTank [4EC0001]', 'SiegeTank [5680001]', 'SiegeTankSieged [5E40001]', 'Medivac [5580001]', 'Medivac [5A80001]', 'Medivac [5AC0001]', 'Medivac [5F80001]', 'Medivac [6400001]', 'Medivac [6AC0001]']
+11.49	grEEngLade      SelectionEvent['Marine [3400002]', 'Marine [3F40002]', 'Marine [4680001]', 'Marine [46C0001]', 'Marine [4C80002]', 'Marine [5400001]', 'Marine [5480001]', 'Marine [5700001]', 'Marine [5740001]', 'Marine [5BC0001]', 'Marine [5C00001]', 'Marine [5E80001]', 'Marine [5EC0001]', 'Marine [6540001]', 'Marine [6580001]', 'Marine [6800002]', 'Marine [6840001]', 'Marauder [3800002]', 'Marauder [5C40001]', 'Marauder [6000001]', 'Marauder [6200002]', 'Marauder [6900001]', 'SiegeTank [3D00003]', 'SiegeTankSieged [3E00003]', 'SiegeTank [4EC0001]', 'SiegeTank [5680001]', 'SiegeTankSieged [5E40001]', 'Medivac [5580001]', 'Medivac [5A80001]', 'Medivac [5AC0001]', 'Medivac [5F80001]', 'Medivac [6400001]', 'Medivac [6AC0001]']
+11.49	grEEngLade      Right Click; Location: (44.580322265625, 82.716796875, 40907)
+11.52	grEEngLade      Ability (1360) - TrainSCV
+11.53	Floyd           SelectionEvent['ObserverSiegeMode [60C0001]']
+11.54	Floyd           Right Click; Location: (73.122802734375, 99.537841796875, 32708)
+11.54	grEEngLade      SelectionEvent[]
+11.54	Floyd           Right Click; Location: (66.8779296875, 99.80517578125, 32708)
+11.55	grEEngLade      SelectionEvent[]
+11.56	Floyd           Right Click; Location: (65.8125, 101.443603515625, 32708)
+11.57	Floyd           Right Click; Location: (65.07080078125, 103.299560546875, 32708)
+11.58	grEEngLade      SelectionEvent['Armory [31C0002]']
+11.58	grEEngLade      SelectionEvent['Armory [31C0002]']
+11.58	grEEngLade      SelectionEvent['Armory [31C0002]']
+11.58	grEEngLade      SelectionEvent['Armory [31C0002]']
+11.58	grEEngLade      Ability (1525) - UpgradeVehicleWeapons1
+11.59	Floyd           Ability (58A0) - ChronoBoostEnergyCost
+12.01	Floyd           SelectionEvent['ObserverSiegeMode [63C0001]']
+12.01	Floyd           Right Click; Location: (43.134521484375, 76.2490234375, 40918)
+12.02	Floyd           Right Click; Location: (46.586181640625, 84.394775390625, 40907)
+12.03	Floyd           Right Click; Location: (48.30908203125, 84.228271484375, 40907)
+12.05	Floyd           Ability (58A0) - ChronoBoostEnergyCost
+12.08	grEEngLade      Ability (13E0) - TrainMarine
+12.08	grEEngLade      Ability (13E3) - TrainMarauder
+12.08	Floyd           SelectionEvent['Observer [53C0004]']
+12.08	Floyd           Right Click; Location: (31.315185546875, 48.095947265625, 40922)
+12.10	Floyd           Right Click; Location: (29.5224609375, 68.540283203125, 32708)
+12.11	Floyd           Right Click; Location: (32.635986328125, 66.37255859375, 32712)
+12.12	Floyd           Right Click; Location: (30.619873046875, 66.314453125, 32708)
+12.12	grEEngLade      SelectionEvent['Marine [6CC0001]', 'Marine [6D00001]', 'Marauder [6D40001]', 'LiberatorAG [6C40001]']
+12.12	grEEngLade      SelectionEvent['Marine [3400002]', 'Marine [3F40002]', 'Marine [4680001]', 'Marine [46C0001]', 'Marine [4C80002]', 'Marine [5400001]', 'Marine [5480001]', 'Marine [5700001]', 'Marine [5740001]', 'Marine [5BC0001]', 'Marine [5C00001]', 'Marine [5E80001]', 'Marine [5EC0001]', 'Marine [6540001]', 'Marine [6580001]', 'Marine [6800002]', 'Marine [6840001]', 'Marine [6CC0001]', 'Marine [6D00001]', 'Marauder [3800002]', 'Marauder [5C40001]', 'Marauder [6000001]', 'Marauder [6200002]', 'Marauder [6900001]', 'Marauder [6D40001]', 'SiegeTank [3D00003]', 'SiegeTankSieged [3E00003]', 'SiegeTank [4EC0001]', 'SiegeTank [5680001]', 'SiegeTankSieged [5E40001]', 'LiberatorAG [6C40001]', 'Medivac [5580001]', 'Medivac [5A80001]', 'Medivac [5AC0001]', 'Medivac [5F80001]', 'Medivac [6400001]', 'Medivac [6AC0001]']
+12.12	grEEngLade      SelectionEvent['Marine [3400002]', 'Marine [3F40002]', 'Marine [4680001]', 'Marine [46C0001]', 'Marine [4C80002]', 'Marine [5400001]', 'Marine [5480001]', 'Marine [5700001]', 'Marine [5740001]', 'Marine [5BC0001]', 'Marine [5C00001]', 'Marine [5E80001]', 'Marine [5EC0001]', 'Marine [6540001]', 'Marine [6580001]', 'Marine [6800002]', 'Marine [6840001]', 'Marine [6CC0001]', 'Marine [6D00001]', 'Marauder [3800002]', 'Marauder [5C40001]', 'Marauder [6000001]', 'Marauder [6200002]', 'Marauder [6900001]', 'Marauder [6D40001]', 'SiegeTank [3D00003]', 'SiegeTankSieged [3E00003]', 'SiegeTank [4EC0001]', 'SiegeTank [5680001]', 'SiegeTankSieged [5E40001]', 'LiberatorAG [6C40001]', 'Medivac [5580001]', 'Medivac [5A80001]', 'Medivac [5AC0001]', 'Medivac [5F80001]', 'Medivac [6400001]', 'Medivac [6AC0001]']
+12.12	grEEngLade      SelectionEvent['Marine [3400002]', 'Marine [3F40002]', 'Marine [4680001]', 'Marine [46C0001]', 'Marine [4C80002]', 'Marine [5400001]', 'Marine [5480001]', 'Marine [5700001]', 'Marine [5740001]', 'Marine [5BC0001]', 'Marine [5C00001]', 'Marine [5E80001]', 'Marine [5EC0001]', 'Marine [6540001]', 'Marine [6580001]', 'Marine [6800002]', 'Marine [6840001]', 'Marine [6CC0001]', 'Marine [6D00001]', 'Marauder [3800002]', 'Marauder [5C40001]', 'Marauder [6000001]', 'Marauder [6200002]', 'Marauder [6900001]', 'Marauder [6D40001]', 'SiegeTank [3D00003]', 'SiegeTankSieged [3E00003]', 'SiegeTank [4EC0001]', 'SiegeTank [5680001]', 'SiegeTankSieged [5E40001]', 'LiberatorAG [6C40001]', 'Medivac [5580001]', 'Medivac [5A80001]', 'Medivac [5AC0001]', 'Medivac [5F80001]', 'Medivac [6400001]', 'Medivac [6AC0001]']
+12.13	Floyd           SelectionEvent['WarpGate [39C0001]', 'WarpGate [3F00001]', 'WarpGate [5100001]', 'WarpGate [5780001]']
+12.14	grEEngLade      Ability (1160) - ScannerSweep; Location: (151.154541015625, 77.2236328125, 32708)
+12.14	Floyd           Ability (1AC0) - WarpInZealot; Location: (140.319091796875, 56.504638671875, 40900)
+12.15	Floyd           Right Click; Location: (139.9638671875, 55.202880859375, 40900)
+12.15	Floyd           Right Click; Location: (140.45068359375, 53.4619140625, 40900)
+12.15	Floyd           Right Click; Location: (141.56884765625, 51.447265625, 40900)
+12.17	Floyd           SelectionEvent['HighTemplar [4B80004]', 'HighTemplar [4F40007]', 'Sentry [4580001]', 'Sentry [5240002]', 'Sentry [6240001]', 'Stalker [4240001]', 'Stalker [4600001]', 'Stalker [5080001]', 'Stalker [50C0001]', 'Stalker [6100001]', 'Stalker [6140001]', 'Stalker [6180001]', 'Adept [49C0001]', 'Immortal [6E40001]', 'Zealot [3780006]', 'Zealot [3F80001]', 'Zealot [4940001]', 'Zealot [4A00004]', 'Zealot [52C0003]', 'Zealot [5340002]', 'Zealot [5840001]', 'Zealot [5880001]', 'Zealot [5CC0001]', 'Zealot [5D00001]', 'Zealot [69C0001]', 'Zealot [6A00001]', 'Zealot [6EC0001]', 'Zealot [6F00001]', 'Zealot [6F40001]', 'Zealot [6F80001]', 'Observer [53C0004]', 'ObserverSiegeMode [60C0001]', 'ObserverSiegeMode [63C0001]']
+12.17	grEEngLade      SelectionEvent['OrbitalCommand [56C0001]']
+12.17	Floyd           Ability (2160) - ArchonWarpSelection
+12.18	Floyd           SelectionEvent['Archon [6FC0001]']
+12.18	grEEngLade      Ability (542) - HoldPosition
+12.21	grEEngLade      Ability (1160) - ScannerSweep; Location: (130.329345703125, 61.105224609375, 40907)
+12.24	grEEngLade      Right Click; Location: (113.57861328125, 44.065673828125, 32708)
+12.24	Floyd           SelectionEvent['Probe [6D80001]']
+12.24	Floyd           Right Click; Location: (147.0615234375, 77.022705078125, 32708)
+12.25	Floyd           Ability (1541) - BuildPylon; Location: (147.0, 77.0, 32708)
+12.25	Floyd           SelectionEvent['Probe [1600002]', 'Probe [4C40003]', 'Probe [6680001]', 'Probe [6940001]', 'Probe [6A80001]', 'Probe [6B40001]']
+12.26	Floyd           Right Click; Target: MineralField [00480001]; Location: (156.0, 72.5, 32704)
+12.26	grEEngLade      Ability (1160) - ScannerSweep; Location: (136.4619140625, 30.374755859375, 49091)
+12.28	Floyd           SelectionEvent['Sentry [4580001]', 'Sentry [5240002]', 'Sentry [6240001]', 'Stalker [4240001]', 'Stalker [4600001]', 'Stalker [5080001]', 'Stalker [50C0001]', 'Stalker [6100001]', 'Stalker [6140001]', 'Stalker [6180001]', 'Adept [49C0001]', 'Archon [6FC0001]', 'Immortal [6E40001]', 'Zealot [3780006]', 'Zealot [3F80001]', 'Zealot [4940001]', 'Zealot [4A00004]', 'Zealot [52C0003]', 'Zealot [5340002]', 'Zealot [5840001]', 'Zealot [5880001]', 'Zealot [5CC0001]', 'Zealot [5D00001]', 'Zealot [69C0001]', 'Zealot [6A00001]', 'Zealot [6EC0001]', 'Zealot [6F00001]', 'Zealot [6F40001]', 'Zealot [6F80001]', 'Observer [53C0004]', 'ObserverSiegeMode [60C0001]', 'ObserverSiegeMode [63C0001]']
+12.29	Floyd           Ability (5A0) - Attack; Location: (130.213623046875, 62.68994140625, 40907)
+12.29	grEEngLade      Ability (1360) - TrainSCV
+12.30	Floyd           SelectionEvent['Probe [6D80001]']
+12.30	grEEngLade      SelectionEvent['SCV [4140001]']
+12.31	grEEngLade      Ability (1020) - BuildCommandCenter; Location: (44.5, 124.5, 49091)
+12.31	Floyd           Ability (1541) - BuildPylon; Location: (159.0, 81.0, 32708)
+12.33	grEEngLade      Right Click; Target: None [00000000]; Location: (60.0, 112.5, 32704)
+12.36	Floyd           SelectionEvent['WarpGate [39C0001]', 'WarpGate [3F00001]', 'WarpGate [5100001]', 'WarpGate [5780001]']
+12.37	grEEngLade      SelectionEvent[]
+12.37	grEEngLade      Ability (1426) - TrainLiberator
+12.39	Floyd           SelectionEvent['Probe [55C0002]']
+12.39	Floyd           Right Click; Location: (134.4892578125, 24.426513671875, 49091)
+12.39	grEEngLade      Ability (13E0) - TrainMarine
+12.39	grEEngLade      Ability (13E3) - TrainMarauder
+12.40	Floyd           Ability (1543) - BuildGateway; Location: (135.5, 24.5, 49091)
+12.40	grEEngLade      SelectionEvent[]
+12.43	Floyd           SelectionEvent['Forge [4280002]']
+12.43	grEEngLade      SelectionEvent[]
+12.43	grEEngLade      SelectionEvent['LiberatorAG [6C40001]']
+12.43	grEEngLade      SelectionEvent[]
+12.43	grEEngLade      SelectionEvent['LiberatorAG [6C40001]']
+12.43	grEEngLade      SelectionEvent['LiberatorAG [6C40001]']
+12.43	grEEngLade      SelectionEvent['LiberatorAG [6C40001]']
+12.44	Floyd           Ability (5980); Target: Forge [04280002]; Location: (141.5, 25.5, 49088)
+12.45	grEEngLade      Right Click; Location: (165.850830078125, 108.091796875, 32732)
+12.46	Floyd           SelectionEvent['Probe [4380004]', 'Probe [6C80001]']
+12.47	grEEngLade      Right Click; Location: (165.186767578125, 84.533447265625, 32732)
+12.48	Floyd           Right Click; Target: MineralField [024C0001]; Location: (157.0, 75.5, 32704)
+12.50	grEEngLade      Ability (4CE0) - AiurLightBridgeAbandonedNE8; Location: (154.48486328125, 77.4287109375, 32708)
+12.50	Floyd           SelectionEvent['Probe [6D80001]']
+12.50	Floyd           Right Click; Location: (149.439697265625, 81.458984375, 32708)
+12.51	grEEngLade      SelectionEvent[]
+12.51	grEEngLade      Ability (1401) - BuildSiegeTank
+12.52	Floyd           Ability (154F) - BuildShieldBattery; Location: (147.0, 79.0, 32708)
+12.55	Floyd           SelectionEvent['Sentry [4580001]', 'Sentry [5240002]', 'Sentry [6240001]', 'Stalker [4240001]', 'Stalker [4600001]', 'Stalker [5080001]', 'Stalker [50C0001]', 'Stalker [6100001]', 'Stalker [6140001]', 'Stalker [6180001]', 'Adept [49C0001]', 'Archon [6FC0001]', 'Immortal [6E40001]', 'Zealot [3780006]', 'Zealot [3F80001]', 'Zealot [4940001]', 'Zealot [4A00004]', 'Zealot [52C0003]', 'Zealot [5340002]', 'Zealot [5840001]', 'Zealot [5880001]', 'Zealot [5CC0001]', 'Zealot [5D00001]', 'Zealot [69C0001]', 'Zealot [6A00001]', 'Zealot [6EC0001]', 'Zealot [6F00001]', 'Zealot [6F40001]', 'Zealot [6F80001]', 'Observer [53C0004]', 'ObserverSiegeMode [60C0001]', 'ObserverSiegeMode [63C0001]']
+12.55	grEEngLade      SelectionEvent['Marine [4B80005]', 'Marine [4F40008]', 'Marauder [70C0001]', 'SiegeTank [7000001]']
+12.56	grEEngLade      SelectionEvent['Marine [3400002]', 'Marine [3F40002]', 'Marine [4680001]', 'Marine [46C0001]', 'Marine [4B80005]', 'Marine [4C80002]', 'Marine [4F40008]', 'Marine [5400001]', 'Marine [5480001]', 'Marine [5700001]', 'Marine [5740001]', 'Marine [5BC0001]', 'Marine [5C00001]', 'Marine [5E80001]', 'Marine [5EC0001]', 'Marine [6540001]', 'Marine [6580001]', 'Marine [6800002]', 'Marine [6840001]', 'Marine [6CC0001]', 'Marine [6D00001]', 'Marauder [3800002]', 'Marauder [5C40001]', 'Marauder [6000001]', 'Marauder [6200002]', 'Marauder [6900001]', 'Marauder [6D40001]', 'Marauder [70C0001]', 'SiegeTank [3D00003]', 'SiegeTankSieged [3E00003]', 'SiegeTank [4EC0001]', 'SiegeTank [5680001]', 'SiegeTankSieged [5E40001]', 'SiegeTank [7000001]', 'Medivac [5580001]', 'Medivac [5A80001]', 'Medivac [5AC0001]', 'Medivac [5F80001]', 'Medivac [6400001]', 'Medivac [6AC0001]']
+12.56	grEEngLade      SelectionEvent['Marine [3400002]', 'Marine [3F40002]', 'Marine [4680001]', 'Marine [46C0001]', 'Marine [4B80005]', 'Marine [4C80002]', 'Marine [4F40008]', 'Marine [5400001]', 'Marine [5480001]', 'Marine [5700001]', 'Marine [5740001]', 'Marine [5BC0001]', 'Marine [5C00001]', 'Marine [5E80001]', 'Marine [5EC0001]', 'Marine [6540001]', 'Marine [6580001]', 'Marine [6800002]', 'Marine [6840001]', 'Marine [6CC0001]', 'Marine [6D00001]', 'Marauder [3800002]', 'Marauder [5C40001]', 'Marauder [6000001]', 'Marauder [6200002]', 'Marauder [6900001]', 'Marauder [6D40001]', 'Marauder [70C0001]', 'SiegeTank [3D00003]', 'SiegeTankSieged [3E00003]', 'SiegeTank [4EC0001]', 'SiegeTank [5680001]', 'SiegeTankSieged [5E40001]', 'SiegeTank [7000001]', 'Medivac [5580001]', 'Medivac [5A80001]', 'Medivac [5AC0001]', 'Medivac [5F80001]', 'Medivac [6400001]', 'Medivac [6AC0001]']
+12.56	grEEngLade      SelectionEvent['Marine [3400002]', 'Marine [3F40002]', 'Marine [4680001]', 'Marine [46C0001]', 'Marine [4B80005]', 'Marine [4C80002]', 'Marine [4F40008]', 'Marine [5400001]', 'Marine [5480001]', 'Marine [5700001]', 'Marine [5740001]', 'Marine [5BC0001]', 'Marine [5C00001]', 'Marine [5E80001]', 'Marine [5EC0001]', 'Marine [6540001]', 'Marine [6580001]', 'Marine [6800002]', 'Marine [6840001]', 'Marine [6CC0001]', 'Marine [6D00001]', 'Marauder [3800002]', 'Marauder [5C40001]', 'Marauder [6000001]', 'Marauder [6200002]', 'Marauder [6900001]', 'Marauder [6D40001]', 'Marauder [70C0001]', 'SiegeTank [3D00003]', 'SiegeTankSieged [3E00003]', 'SiegeTank [4EC0001]', 'SiegeTank [5680001]', 'SiegeTankSieged [5E40001]', 'SiegeTank [7000001]', 'Medivac [5580001]', 'Medivac [5A80001]', 'Medivac [5AC0001]', 'Medivac [5F80001]', 'Medivac [6400001]', 'Medivac [6AC0001]']
+12.56	grEEngLade      SelectionEvent['Marine [3400002]', 'Marine [3F40002]', 'Marine [4680001]', 'Marine [46C0001]', 'Marine [4B80005]', 'Marine [4C80002]', 'Marine [4F40008]', 'Marine [5400001]', 'Marine [5480001]', 'Marine [5700001]', 'Marine [5740001]', 'Marine [5BC0001]', 'Marine [5C00001]', 'Marine [5E80001]', 'Marine [5EC0001]', 'Marine [6540001]', 'Marine [6580001]', 'Marine [6800002]', 'Marine [6840001]', 'Marine [6CC0001]', 'Marine [6D00001]', 'Marauder [3800002]', 'Marauder [5C40001]', 'Marauder [6000001]', 'Marauder [6200002]', 'Marauder [6900001]', 'Marauder [6D40001]', 'Marauder [70C0001]', 'SiegeTank [3D00003]', 'SiegeTankSieged [3E00003]', 'SiegeTank [4EC0001]', 'SiegeTank [5680001]', 'SiegeTankSieged [5E40001]', 'SiegeTank [7000001]', 'Medivac [5580001]', 'Medivac [5A80001]', 'Medivac [5AC0001]', 'Medivac [5F80001]', 'Medivac [6400001]', 'Medivac [6AC0001]']
+12.57	Floyd           Ability (5A0) - Attack; Location: (140.262939453125, 87.3447265625, 32730)
+12.57	grEEngLade      Ability (5A0) - Attack; Location: (44.764892578125, 67.092041015625, 32715)
+12.57	Floyd           Right Click; Location: (138.0224609375, 89.074951171875, 32730)
+12.58	grEEngLade      Ability (5A0) - Attack; Location: (41.361328125, 66.28125, 32715)
+12.58	grEEngLade      Right Click; Location: (41.034423828125, 67.587158203125, 32715)
+12.59	Floyd           Right Click; Location: (142.22998046875, 89.0556640625, 32730)
+12.59	grEEngLade      Right Click; Location: (37.712158203125, 68.044921875, 32715)
+12.59	grEEngLade      Right Click; Location: (37.621337890625, 68.091064453125, 32715)
+13.00	Floyd           SelectionEvent['Probe [6D80001]']
+13.00	Floyd           Right Click; Location: (145.982421875, 80.706787109375, 32708)
+13.01	Floyd           Ability (1547) - BuildPhotonCannon; Location: (146.0, 81.0, 32708)
+13.02	grEEngLade      SelectionEvent['SCV [3AC0001]', 'SCV [3FC0001]']
+13.02	Floyd           Right Click; Location: (144.275390625, 76.320068359375, 32708)
+13.03	Floyd           Ability (1547) - BuildPhotonCannon; Location: (143.0, 79.0, 32706)
+13.03	Floyd           SelectionEvent['Sentry [4580001]', 'Sentry [5240002]', 'Sentry [6240001]', 'Stalker [4240001]', 'Stalker [4600001]', 'Stalker [5080001]', 'Stalker [50C0001]', 'Stalker [6100001]', 'Stalker [6140001]', 'Stalker [6180001]', 'Adept [49C0001]', 'Archon [6FC0001]', 'Immortal [6E40001]', 'Zealot [3780006]', 'Zealot [3F80001]', 'Zealot [4940001]', 'Zealot [4A00004]', 'Zealot [52C0003]', 'Zealot [5340002]', 'Zealot [5840001]', 'Zealot [5880001]', 'Zealot [5CC0001]', 'Zealot [5D00001]', 'Zealot [69C0001]', 'Zealot [6A00001]', 'Zealot [6EC0001]', 'Zealot [6F00001]', 'Zealot [6F40001]', 'Zealot [6F80001]', 'Observer [53C0004]', 'ObserverSiegeMode [60C0001]', 'ObserverSiegeMode [63C0001]']
+13.04	Floyd           Ability (5A0) - Attack; Location: (141.665771484375, 90.8515625, 32730)
+13.04	grEEngLade      Ability (1023) - BuildBarracks; Location: (45.5, 118.5, 49091)
+13.04	grEEngLade      Right Click; Location: (45.5, 115.5, 49091)
+13.05	Floyd           Right Click; Location: (136.423095703125, 98.284912109375, 39039)
+13.05	grEEngLade      Right Click; Target: None [00000000]; Location: (60.0, 112.5, 32704)
+13.06	Floyd           Right Click; Location: (140.103271484375, 108.795166015625, 40922)
+13.07	grEEngLade      SelectionEvent['SCV [3180003]', 'SCV [3480001]', 'SCV [36C0001]', 'SCV [3B40002]', 'SCV [62C0001]', 'SCV [6300001]', 'SCV [6340001]', 'SCV [6440001]', 'SCV [6480001]', 'SCV [6740002]', 'SCV [6880001]', 'SCV [6B80001]', 'SCV [6BC0001]', 'SCV [6DC0001]']
+13.08	grEEngLade      Ability (1022) - BuildRefinery; Target: VespeneGeyser [01700001]; Location: (23.5, 63.5, 32704)
+13.09	Floyd           Right Click; Location: (142.934326171875, 107.404052734375, 40922)
+13.11	grEEngLade      Right Click; Target: MineralField750 [01780001]; Location: (18.0, 69.5, 32704)
+13.11	grEEngLade      Ability (1360) - TrainSCV
+13.12	grEEngLade      Ability (B40) - CalldownMULE; Target: MineralField750 [01780001]; Location: (18.0, 69.5, 32704)
+13.12	Floyd           Right Click; Location: (135.03759765625, 107.234130859375, 40922)
+13.12	grEEngLade      Right Click; Target: MineralField750 [01780001]; Location: (18.0, 69.5, 32704)
+13.12	grEEngLade      Right Click; Target: MineralField750 [01780001]; Location: (18.0, 69.5, 32704)
+13.13	grEEngLade      Right Click; Target: MineralField750 [01780001]; Location: (18.0, 69.5, 32704)
+13.14	grEEngLade      SelectionEvent['SCV [7180001]']
+13.14	grEEngLade      SelectionEvent['VespeneGeyser [1C00001]']
+13.15	Floyd           Right Click; Location: (149.615234375, 105.23974609375, 40900)
+13.15	grEEngLade      SelectionEvent['SCV [7180001]']
+13.15	grEEngLade      Ability (1022) - BuildRefinery; Target: VespeneGeyser [01C00001]; Location: (27.5, 63.5, 32704)
+13.17	Floyd           Right Click; Location: (151.34033203125, 105.953369140625, 40900)
+13.18	grEEngLade      SelectionEvent['LiberatorAG [6C40001]']
+13.18	Floyd           SelectionEvent[]
+13.18	grEEngLade      Right Click; Location: (165.999755859375, 94.36279296875, 32725)
+13.19	Floyd           SelectionEvent[]
+13.19	Floyd           Right Click; Location: (156.74755859375, 101.295654296875, 40900)
+13.20	grEEngLade      Right Click; Location: (165.999755859375, 87.628173828125, 32732)
+13.21	grEEngLade      Right Click; Location: (165.999755859375, 88.410400390625, 32732)
+13.21	grEEngLade      Right Click; Location: (165.999755859375, 88.703369140625, 32732)
+13.21	grEEngLade      Right Click; Location: (165.999755859375, 79.70751953125, 32732)
+13.22	grEEngLade      Right Click; Location: (165.999755859375, 80.1572265625, 32732)
+13.22	grEEngLade      Right Click; Location: (165.999755859375, 79.995849609375, 32732)
+13.22	Floyd           Right Click; Location: (157.423583984375, 83.728759765625, 32708)
+13.22	Floyd           SelectionEvent['WarpGate [39C0001]', 'WarpGate [3F00001]', 'WarpGate [5100001]', 'WarpGate [5780001]']
+13.22	grEEngLade      Ability (4CE0) - AiurLightBridgeAbandonedNE8; Location: (159.0712890625, 77.252197265625, 32708)
+13.23	Floyd           Ability (1AC1) - WarpInStalker; Location: (156.963134765625, 83.793212890625, 32708)
+13.23	Floyd           Right Click; Location: (155.99072265625, 84.358154296875, 32708)
+13.24	Floyd           Right Click; Location: (154.81494140625, 84.117919921875, 32708)
+13.24	grEEngLade      Right Click; Location: (165.999755859375, 78.259765625, 32732)
+13.24	Floyd           Right Click; Location: (154.06884765625, 82.34033203125, 32708)
+13.24	grEEngLade      Right Click; Location: (165.999755859375, 78.39794921875, 32732)
+13.25	grEEngLade      Right Click; Location: (165.999755859375, 62.6015625, 32732)
+13.25	grEEngLade      Right Click; Location: (165.999755859375, 64.07373046875, 32732)
+13.25	Floyd           SelectionEvent['Sentry [4580001]', 'Sentry [5240002]', 'Sentry [6240001]', 'Stalker [CC0002]', 'Stalker [4240001]', 'Stalker [4600001]', 'Stalker [5080001]', 'Stalker [50C0001]', 'Stalker [6100001]', 'Stalker [6140001]', 'Stalker [6180001]', 'Stalker [7400004]', 'Stalker [7480002]', 'Stalker [74C0004]', 'Adept [49C0001]', 'Archon [6FC0001]', 'Immortal [6E40001]', 'Zealot [3780006]', 'Zealot [3F80001]', 'Zealot [4940001]', 'Zealot [4A00004]', 'Zealot [52C0003]', 'Zealot [5340002]', 'Zealot [5840001]', 'Zealot [5880001]', 'Zealot [5CC0001]', 'Zealot [5D00001]', 'Zealot [69C0001]', 'Zealot [6A00001]', 'Zealot [6EC0001]', 'Zealot [6F00001]', 'Zealot [6F40001]', 'Zealot [6F80001]', 'Observer [53C0004]', 'ObserverSiegeMode [60C0001]', 'ObserverSiegeMode [63C0001]']
+13.26	Floyd           Ability (5A0) - Attack; Location: (158.71533203125, 84.072509765625, 32708)
+13.26	grEEngLade      Right Click; Location: (165.999755859375, 56.582275390625, 32732)
+13.26	grEEngLade      Right Click; Location: (165.999755859375, 56.871826171875, 32732)
+13.27	grEEngLade      Ability (4CE0) - AiurLightBridgeAbandonedNE8; Location: (155.259521484375, 54.151123046875, 40900)
+13.29	grEEngLade      Ability (13E0) - TrainMarine
+13.29	Floyd           SelectionEvent['Nexus [3C00001]']
+13.29	Floyd           Ability (15E0) - TrainProbe
+13.29	grEEngLade      Ability (13E3) - TrainMarauder
+13.31	Floyd           SelectionEvent['Probe [5000001]']
+13.32	grEEngLade      Ability (1360) - TrainSCV
+13.32	Floyd           Right Click; Location: (136.58642578125, 20.390380859375, 49091)
+13.33	grEEngLade      Ability (4CE0) - AiurLightBridgeAbandonedNE8; Location: (157.9541015625, 71.630859375, 32709)
+13.35	Floyd           Ability (1543) - BuildGateway; Location: (132.5, 23.5, 49091)
+13.35	grEEngLade      SelectionEvent[]
+13.35	grEEngLade      Ability (1447) - UpgradeTerranInfantryArmor2
+13.38	Floyd           SelectionEvent['Observer [53C0004]']
+13.38	Floyd           Right Click; Location: (162.9306640625, 89.63525390625, 32732)
+13.38	grEEngLade      SelectionEvent[]
+13.38	grEEngLade      Ability (1401) - BuildSiegeTank
+13.39	Floyd           Right Click; Location: (165.999755859375, 92.015625, 32732)
+13.39	grEEngLade      SelectionEvent[]
+13.41	Floyd           Right Click; Location: (165.999755859375, 97.33935546875, 32732)
+13.41	Floyd           Right Click; Location: (165.999755859375, 98.680908203125, 32732)
+13.42	grEEngLade      SelectionEvent[]
+13.43	Floyd           SelectionEvent['Sentry [4580001]', 'Sentry [5240002]', 'Sentry [6240001]', 'Stalker [CC0002]', 'Stalker [4240001]', 'Stalker [4600001]', 'Stalker [5080001]', 'Stalker [50C0001]', 'Stalker [6100001]', 'Stalker [6140001]', 'Stalker [6180001]', 'Stalker [7400004]', 'Stalker [7480002]', 'Stalker [74C0004]', 'Adept [49C0001]', 'Archon [6FC0001]', 'Immortal [6E40001]', 'Zealot [3780006]', 'Zealot [3F80001]', 'Zealot [4940001]', 'Zealot [4A00004]', 'Zealot [52C0003]', 'Zealot [5340002]', 'Zealot [5840001]', 'Zealot [5880001]', 'Zealot [5CC0001]', 'Zealot [5D00001]', 'Zealot [69C0001]', 'Zealot [6A00001]', 'Zealot [6EC0001]', 'Zealot [6F00001]', 'Zealot [6F40001]', 'Zealot [6F80001]', 'ObserverSiegeMode [60C0001]', 'ObserverSiegeMode [63C0001]']
+13.44	Floyd           Ability (5A0) - Attack; Location: (150.0380859375, 67.255126953125, 32731)
+13.45	Floyd           Right Click; Location: (154.8349609375, 68.3984375, 32723)
+13.45	grEEngLade      SelectionEvent['Marine [800002]', 'Marine [7200001]', 'Marauder [7280001]']
+13.45	Floyd           SelectionEvent[]
+13.46	grEEngLade      SelectionEvent['SiegeTank [7600001]', 'LiberatorAG [6C40001]', 'Liberator [7680001]', 'Liberator [76C0001]']
+13.47	Floyd           Ability (1B40) - Blink; Location: (158.316162109375, 68.02783203125, 32720)
+13.47	grEEngLade      SelectionEvent['Marine [800002]', 'Marine [3400002]', 'Marine [3F40002]', 'Marine [4680001]', 'Marine [46C0001]', 'Marine [4B80005]', 'Marine [4C80002]', 'Marine [4F40008]', 'Marine [5400001]', 'Marine [5480001]', 'Marine [5700001]', 'Marine [5740001]', 'Marine [5BC0001]', 'Marine [5C00001]', 'Marine [5E80001]', 'Marine [5EC0001]', 'Marine [6540001]', 'Marine [6580001]', 'Marine [6800002]', 'Marine [6840001]', 'Marine [6CC0001]', 'Marine [6D00001]', 'Marine [7200001]', 'Marauder [3800002]', 'Marauder [5C40001]', 'Marauder [6000001]', 'Marauder [6200002]', 'Marauder [6900001]', 'Marauder [6D40001]', 'Marauder [70C0001]', 'Marauder [7280001]', 'SiegeTank [3D00003]', 'SiegeTankSieged [3E00003]', 'SiegeTank [4EC0001]', 'SiegeTank [5680001]', 'SiegeTankSieged [5E40001]', 'SiegeTank [7000001]', 'SiegeTank [7600001]', 'LiberatorAG [6C40001]', 'Liberator [7680001]', 'Liberator [76C0001]', 'Medivac [5580001]', 'Medivac [5A80001]', 'Medivac [5AC0001]', 'Medivac [5F80001]', 'Medivac [6400001]', 'Medivac [6AC0001]']
+13.47	grEEngLade      SelectionEvent['Marine [800002]', 'Marine [3400002]', 'Marine [3F40002]', 'Marine [4680001]', 'Marine [46C0001]', 'Marine [4B80005]', 'Marine [4C80002]', 'Marine [4F40008]', 'Marine [5400001]', 'Marine [5480001]', 'Marine [5700001]', 'Marine [5740001]', 'Marine [5BC0001]', 'Marine [5C00001]', 'Marine [5E80001]', 'Marine [5EC0001]', 'Marine [6540001]', 'Marine [6580001]', 'Marine [6800002]', 'Marine [6840001]', 'Marine [6CC0001]', 'Marine [6D00001]', 'Marine [7200001]', 'Marauder [3800002]', 'Marauder [5C40001]', 'Marauder [6000001]', 'Marauder [6200002]', 'Marauder [6900001]', 'Marauder [6D40001]', 'Marauder [70C0001]', 'Marauder [7280001]', 'SiegeTank [3D00003]', 'SiegeTankSieged [3E00003]', 'SiegeTank [4EC0001]', 'SiegeTank [5680001]', 'SiegeTankSieged [5E40001]', 'SiegeTank [7000001]', 'SiegeTank [7600001]', 'Liberator [7680001]', 'Liberator [76C0001]', 'Medivac [5580001]', 'Medivac [5A80001]', 'Medivac [5AC0001]', 'Medivac [5F80001]', 'Medivac [6400001]', 'Medivac [6AC0001]']
+13.47	grEEngLade      SelectionEvent['Marine [800002]', 'Marine [3400002]', 'Marine [3F40002]', 'Marine [4680001]', 'Marine [46C0001]', 'Marine [4B80005]', 'Marine [4C80002]', 'Marine [4F40008]', 'Marine [5400001]', 'Marine [5480001]', 'Marine [5700001]', 'Marine [5740001]', 'Marine [5BC0001]', 'Marine [5C00001]', 'Marine [5E80001]', 'Marine [5EC0001]', 'Marine [6540001]', 'Marine [6580001]', 'Marine [6800002]', 'Marine [6840001]', 'Marine [6CC0001]', 'Marine [6D00001]', 'Marine [7200001]', 'Marauder [3800002]', 'Marauder [5C40001]', 'Marauder [6000001]', 'Marauder [6200002]', 'Marauder [6900001]', 'Marauder [6D40001]', 'Marauder [70C0001]', 'Marauder [7280001]', 'SiegeTank [3D00003]', 'SiegeTankSieged [3E00003]', 'SiegeTank [4EC0001]', 'SiegeTank [5680001]', 'SiegeTankSieged [5E40001]', 'SiegeTank [7000001]', 'SiegeTank [7600001]', 'LiberatorAG [6C40001]', 'Liberator [7680001]', 'Liberator [76C0001]', 'Medivac [5580001]', 'Medivac [5A80001]', 'Medivac [5AC0001]', 'Medivac [5F80001]', 'Medivac [6400001]', 'Medivac [6AC0001]']
+13.47	grEEngLade      SelectionEvent['Marine [800002]', 'Marine [3400002]', 'Marine [3F40002]', 'Marine [4680001]', 'Marine [46C0001]', 'Marine [4B80005]', 'Marine [4C80002]', 'Marine [4F40008]', 'Marine [5400001]', 'Marine [5480001]', 'Marine [5700001]', 'Marine [5740001]', 'Marine [5BC0001]', 'Marine [5C00001]', 'Marine [5E80001]', 'Marine [5EC0001]', 'Marine [6540001]', 'Marine [6580001]', 'Marine [6800002]', 'Marine [6840001]', 'Marine [6CC0001]', 'Marine [6D00001]', 'Marine [7200001]', 'Marauder [3800002]', 'Marauder [5C40001]', 'Marauder [6000001]', 'Marauder [6200002]', 'Marauder [6900001]', 'Marauder [6D40001]', 'Marauder [70C0001]', 'Marauder [7280001]', 'SiegeTank [3D00003]', 'SiegeTankSieged [3E00003]', 'SiegeTank [4EC0001]', 'SiegeTank [5680001]', 'SiegeTankSieged [5E40001]', 'SiegeTank [7000001]', 'SiegeTank [7600001]', 'LiberatorAG [6C40001]', 'Liberator [7680001]', 'Liberator [76C0001]', 'Medivac [5580001]', 'Medivac [5A80001]', 'Medivac [5AC0001]', 'Medivac [5F80001]', 'Medivac [6400001]', 'Medivac [6AC0001]']
+13.47	grEEngLade      Ability (5A0) - Attack; Location: (126.70751953125, 59.7236328125, 40907)
+13.48	grEEngLade      SelectionEvent[]
+13.48	Floyd           SelectionEvent[]
+13.49	Floyd           Ability (5A0) - Attack; Location: (145.7861328125, 73.579345703125, 32708)
+13.50	Floyd           SelectionEvent['Nexus [5E00001]']
+13.50	Floyd           Ability (15E0) - TrainProbe
+13.51	grEEngLade      Right Click; Location: (114.936767578125, 56.039306640625, 32708)
+13.51	grEEngLade      Ability (1160) - ScannerSweep; Location: (149.34375, 74.46044921875, 32708)
+13.51	Floyd           Ability (5980); Target: Nexus [05E00001]; Location: (150.5, 77.5, 32704)
+13.52	Floyd           SelectionEvent['WarpGate [39C0001]', 'WarpGate [3F00001]', 'WarpGate [5100001]', 'WarpGate [5780001]']
+13.54	grEEngLade      Ability (5A0) - Attack; Location: (113.57861328125, 41.762939453125, 32708)
+13.55	grEEngLade      Ability (5A0) - Attack; Location: (139.836669921875, 58.342041015625, 40900)
+13.56	grEEngLade      Ability (13E0) - TrainMarine
+13.57	Floyd           SelectionEvent['Sentry [4580001]', 'Sentry [5240002]', 'Sentry [6240001]', 'Stalker [CC0002]', 'Stalker [4240001]', 'Stalker [4600001]', 'Stalker [5080001]', 'Stalker [50C0001]', 'Stalker [6100001]', 'Stalker [6140001]', 'Stalker [6180001]', 'Stalker [7400004]', 'Stalker [7480002]', 'Stalker [74C0004]', 'Adept [49C0001]', 'Archon [6FC0001]', 'Immortal [6E40001]', 'Zealot [3780006]', 'Zealot [3F80001]', 'Zealot [4940001]', 'Zealot [4A00004]', 'Zealot [52C0003]', 'Zealot [5340002]', 'Zealot [5840001]', 'Zealot [5880001]', 'Zealot [5CC0001]', 'Zealot [5D00001]', 'Zealot [69C0001]', 'Zealot [6A00001]', 'Zealot [6EC0001]', 'Zealot [6F00001]', 'Zealot [6F40001]', 'Zealot [6F80001]', 'Observer [53C0004]', 'ObserverSiegeMode [60C0001]', 'ObserverSiegeMode [63C0001]']
+13.57	grEEngLade      SelectionEvent[]
+13.57	grEEngLade      Ability (1420) - TrainMedivac
+13.57	grEEngLade      Ability (1426) - TrainLiberator
+13.58	Floyd           Ability (5A0) - Attack; Location: (133.5400390625, 55.374755859375, 40900)
+13.58	Floyd           SelectionEvent['WarpGate [39C0001]', 'WarpGate [3F00001]', 'WarpGate [5100001]', 'WarpGate [5780001]']
+14.00	Floyd           SelectionEvent['Probe [55C0002]']
+14.00	Floyd           Right Click; Location: (136.2998046875, 22.19921875, 49091)
+14.01	grEEngLade      SelectionEvent['SCV [3540001]', 'SCV [3600001]', 'SCV [3640001]', 'SCV [3AC0001]', 'SCV [3B00001]', 'SCV [3BC0001]', 'SCV [3C80001]', 'SCV [3FC0001]', 'SCV [4040001]']
+14.02	Floyd           Ability (1543) - BuildGateway; Location: (131.5, 27.5, 49091)
+14.02	grEEngLade      SelectionEvent['Barracks [3A00001]', 'Barracks [40C0002]', 'Barracks [7300001]', 'Barracks [7380001]']
+14.03	Floyd           SelectionEvent['WarpGate [3C0002]', 'WarpGate [39C0001]', 'WarpGate [3F00001]', 'WarpGate [5100001]', 'WarpGate [5780001]']
+14.03	grEEngLade      SelectionEvent['Barracks [3A00001]', 'Barracks [40C0002]', 'Barracks [7300001]', 'Barracks [7380001]']
+14.03	grEEngLade      SelectionEvent['Barracks [3A00001]', 'Barracks [40C0002]', 'Barracks [7300001]', 'Barracks [7380001]']
+14.03	grEEngLade      SelectionEvent['Barracks [3A00001]', 'Barracks [40C0002]', 'Barracks [7300001]', 'Barracks [7380001]']
+14.04	grEEngLade      SelectionEvent['EngineeringBay [5200001]', 'EngineeringBay [5280001]']
+14.05	Floyd           Ability (1AC0) - WarpInZealot; Location: (138.94384765625, 54.798828125, 40900)
+14.05	Floyd           Right Click; Location: (140.00927734375, 52.88427734375, 40900)
+14.05	Floyd           Right Click; Location: (140.382568359375, 51.978515625, 40900)
+14.05	Floyd           Right Click; Location: (140.7294921875, 51.078857421875, 40900)
+14.05	grEEngLade      SelectionEvent['EngineeringBay [5200001]', 'EngineeringBay [5280001]']
+14.05	grEEngLade      SelectionEvent['EngineeringBay [5200001]', 'EngineeringBay [5280001]']
+14.05	grEEngLade      SelectionEvent['EngineeringBay [5200001]', 'EngineeringBay [5280001]']
+14.07	Floyd           SelectionEvent['Sentry [4580001]', 'Sentry [5240002]', 'Sentry [6240001]', 'Stalker [CC0002]', 'Stalker [4240001]', 'Stalker [4600001]', 'Stalker [5080001]', 'Stalker [50C0001]', 'Stalker [6100001]', 'Stalker [6140001]', 'Stalker [6180001]', 'Stalker [7400004]', 'Stalker [7480002]', 'Stalker [74C0004]', 'Adept [49C0001]', 'Archon [6FC0001]', 'Immortal [6E40001]', 'Zealot [3780006]', 'Zealot [3F80001]', 'Zealot [4940001]', 'Zealot [4A00004]', 'Zealot [52C0003]', 'Zealot [5340002]', 'Zealot [5840001]', 'Zealot [5880001]', 'Zealot [5CC0001]', 'Zealot [5D00001]', 'Zealot [69C0001]', 'Zealot [6A00001]', 'Zealot [6EC0001]', 'Zealot [6F00001]', 'Zealot [6F40001]', 'Zealot [6F80001]', 'Zealot [7740001]', 'Zealot [7780001]', 'Zealot [77C0001]', 'Zealot [7800001]', 'Observer [53C0004]', 'ObserverSiegeMode [60C0001]', 'ObserverSiegeMode [63C0001]']
+14.07	Floyd           Ability (5A0) - Attack; Location: (124.0537109375, 59.688232421875, 40907)
+14.07	grEEngLade      SelectionEvent['SCV [34C0001]', 'SCV [3580001]', 'SCV [3600001]', 'SCV [3700001]', 'SCV [3980001]']
+14.08	Floyd           Right Click; Location: (120.833251953125, 54.62646484375, 40799)
+14.08	grEEngLade      Ability (1021) - BuildSupplyDepot; Location: (28.0, 133.0, 49082)
+14.08	grEEngLade      Right Click; Location: (31.0, 133.0, 49082)
+14.09	grEEngLade      Right Click; Location: (33.0, 134.0, 49082)
+14.09	Floyd           Right Click; Location: (111.0966796875, 48.000732421875, 32708)
+14.10	grEEngLade      Right Click; Target: None [00000000]; Location: (60.0, 112.5, 32704)
+14.10	Floyd           SelectionEvent[]
+14.12	Floyd           SelectionEvent[]
+14.13	grEEngLade      Ability (5A0) - Attack; Location: (108.14599609375, 44.065673828125, 32708)
+14.13	Floyd           Right Click; Location: (107.8544921875, 52.14306640625, 32708)
+14.14	Floyd           Right Click; Location: (104.400634765625, 50.306884765625, 32708)
+14.14	grEEngLade      Ability (1160) - ScannerSweep; Location: (119.333984375, 50.202392578125, 33952)
+14.14	Floyd           SelectionEvent[]
+14.15	Floyd           Ability (1B40) - Blink; Location: (104.6240234375, 41.086181640625, 32708)
+14.16	grEEngLade      SelectionEvent[]
+14.16	Floyd           SelectionEvent[]
+14.16	Floyd           Ability (5A0) - Attack; Location: (100.28662109375, 42.661376953125, 32725)
+14.16	grEEngLade      SelectionEvent[]
+14.17	grEEngLade      Ability (5A0) - Attack; Location: (104.56787109375, 53.03857421875, 32708)
+14.17	grEEngLade      Ability (1060) - UseStimpack
+14.17	Floyd           Right Click; Location: (93.375, 54.083251953125, 37236)
+14.17	Floyd           SelectionEvent[]
+14.17	grEEngLade      Ability (5A0) - Attack; Location: (108.662841796875, 55.447998046875, 32708)
+14.18	grEEngLade      SelectionEvent[]
+14.18	Floyd           Right Click; Location: (91.0048828125, 59.45556640625, 40900)
+14.18	grEEngLade      SelectionEvent[]
+14.18	Floyd           SelectionEvent[]
+14.18	grEEngLade      Ability (10E0) - SiegeMode
+14.19	grEEngLade      SelectionEvent['SiegeTankSieged [3E00003]']
+14.19	grEEngLade      Ability (1160) - ScannerSweep; Location: (110.03564453125, 52.517578125, 32708)
+14.19	Floyd           SelectionEvent[]
+14.20	Floyd           Right Click; Location: (91.48828125, 58.910400390625, 40914)
+14.20	Floyd           SelectionEvent[]
+14.20	Floyd           Ability (8E0) - GuardianShield
+14.20	grEEngLade      SelectionEvent[]
+14.20	grEEngLade      Right Click; Location: (104.668212890625, 54.87158203125, 32708)
+14.20	grEEngLade      Right Click; Location: (104.527587890625, 55.34619140625, 32708)
+14.21	grEEngLade      Ability (5A0) - Attack; Location: (105.636474609375, 56.990966796875, 32708)
+14.21	grEEngLade      SelectionEvent[]
+14.21	Floyd           SelectionEvent[]
+14.22	Floyd           Ability (5A0) - Attack; Location: (91.391357421875, 59.819580078125, 40909)
+14.22	grEEngLade      SelectionEvent[]
+14.22	grEEngLade      SelectionEvent[]
+14.22	grEEngLade      Right Click; Location: (94.797607421875, 46.981689453125, 32708)
+14.22	Floyd           SelectionEvent[]
+14.22	grEEngLade      Right Click; Location: (95.797607421875, 46.6044921875, 32708)
+14.22	grEEngLade      Right Click; Location: (96.494873046875, 46.50146484375, 32708)
+14.23	grEEngLade      Ability (5A0) - Attack; Location: (101.001708984375, 45.602783203125, 32708)
+14.23	Floyd           SelectionEvent[]
+14.23	grEEngLade      SelectionEvent['Stalker [6140001]']
+14.24	grEEngLade      Right Click; Location: (101.620849609375, 46.643310546875, 32708)
+14.24	grEEngLade      Right Click; Location: (101.49658203125, 46.4365234375, 32708)
+14.24	Floyd           SelectionEvent[]
+14.24	grEEngLade      SelectionEvent[]
+14.24	grEEngLade      Ability (5A0) - Attack; Location: (102.439697265625, 45.132568359375, 32708)
+14.25	grEEngLade      Right Click; Location: (102.59228515625, 45.083984375, 32708)
+14.25	grEEngLade      SelectionEvent[]
+14.25	Floyd           SelectionEvent[]
+14.25	Floyd           SelectionEvent[]
+14.25	grEEngLade      Ability (5A0) - Attack; Location: (103.619873046875, 45.390869140625, 32708)
+14.25	grEEngLade      SelectionEvent[]
+14.25	grEEngLade      Ability (1060) - UseStimpack
+14.25	Floyd           Right Click; Location: (91.280517578125, 57.705078125, 40924)
+14.25	grEEngLade      SelectionEvent[]
+14.26	grEEngLade      Ability (5A0) - Attack; Location: (104.0703125, 45.44140625, 32708)
+14.26	Floyd           SelectionEvent[]
+14.26	grEEngLade      Ability (13E0) - TrainMarine
+14.26	Floyd           SelectionEvent[]
+14.27	Floyd           Ability (1B40) - Blink; Location: (91.231201171875, 54.244140625, 44711)
+14.27	Floyd           SelectionEvent[]
+14.27	Floyd           SelectionEvent[]
+14.27	Floyd           SelectionEvent[]
+14.27	Floyd           SelectionEvent[]
+14.27	Floyd           SelectionEvent[]
+14.27	Floyd           SelectionEvent[]
+14.28	Floyd           Ability (5A0) - Attack; Location: (90.738525390625, 57.659423828125, 40924)
+14.28	grEEngLade      Ability (1260) - BuildBarracksTechLab; Location: (45.5, 115.5, 49088)
+14.28	grEEngLade      Ability (13E3) - TrainMarauder
+14.28	Floyd           SelectionEvent['WarpGate [3C0002]', 'WarpGate [39C0001]', 'WarpGate [3F00001]', 'WarpGate [5100001]', 'WarpGate [5780001]']
+14.29	grEEngLade      SelectionEvent[]
+14.29	grEEngLade      Ability (5A0) - Attack; Location: (105.742431640625, 47.4814453125, 32708)
+14.29	grEEngLade      SelectionEvent[]
+14.30	grEEngLade      SelectionEvent[]
+14.30	Floyd           Ability (1AC0) - WarpInZealot; Location: (137.26416015625, 56.794921875, 40900)
+14.30	grEEngLade      SelectionEvent[]
+14.31	grEEngLade      SelectionEvent[]
+14.31	grEEngLade      Ability (3280) - ExtendingBridgeNEWide10
+14.31	grEEngLade      Right Click; Location: (94.880859375, 50.5595703125, 32710)
+14.32	grEEngLade      Right Click; Location: (93.829833984375, 50.7802734375, 32713)
+14.32	grEEngLade      Ability (543) - ScanMove; Location: (94.54736328125, 49.38818359375, 32718)
+14.32	Floyd           SelectionEvent['Probe [5000001]', 'Probe [55C0002]']
+14.33	Floyd           Right Click; Location: (132.259033203125, 34.943359375, 49091)
+14.33	grEEngLade      SelectionEvent['Marine [4680001]', 'Marine [4B80005]', 'Marine [4C80002]', 'Marine [5480001]', 'Marine [5700001]', 'Marine [5BC0001]', 'Marine [6540001]', 'Marauder [5C40001]', 'Marauder [6000001]', 'SiegeTankSieged [3E00003]', 'SiegeTank [4EC0001]', 'SiegeTankSieged [5E40001]', 'SiegeTank [7600001]']
+14.33	grEEngLade      SelectionEvent[]
+14.33	grEEngLade      Ability (5A0) - Attack; Location: (104.728759765625, 45.689697265625, 32708)
+14.34	grEEngLade      Right Click; Location: (104.6318359375, 46.080322265625, 32708)
+14.34	grEEngLade      Right Click; Location: (105.07958984375, 46.8505859375, 32708)
+14.34	grEEngLade      SelectionEvent[]
+14.34	grEEngLade      Ability (5A0) - Attack; Location: (107.496826171875, 49.674072265625, 32708)
+14.34	Floyd           Ability (1543) - BuildGateway; Location: (136.5, 30.5, 49091)
+14.34	grEEngLade      Right Click; Location: (107.90673828125, 50.063232421875, 32708)
+14.35	grEEngLade      Ability (5A0) - Attack; Location: (108.315185546875, 50.97412109375, 32708)
+14.35	grEEngLade      Right Click; Location: (108.406005859375, 51.06396484375, 32708)
+14.35	grEEngLade      SelectionEvent[]
+14.35	grEEngLade      SelectionEvent[]
+14.35	grEEngLade      Ability (5A0) - Attack; Location: (108.81884765625, 51.990234375, 32708)
+14.35	grEEngLade      Ability (13E0) - TrainMarine
+14.36	Floyd           SelectionEvent['RoboticsFacility [5800001]']
+14.36	Floyd           Ability (15C3) - TrainImmortal
+14.37	grEEngLade      SelectionEvent[]
+14.37	grEEngLade      Ability (1401) - BuildSiegeTank
+14.38	Floyd           Ability (5980); Target: RoboticsFacility [05800001]; Location: (142.5, 33.5, 49088)
+14.38	grEEngLade      SelectionEvent[]
+14.38	Floyd           SelectionEvent['WarpGate [3C0002]', 'WarpGate [39C0001]', 'WarpGate [3F00001]', 'WarpGate [5100001]', 'WarpGate [5780001]']
+14.38	grEEngLade      Ability (1444) - UpgradeTerranInfantryWeapons3
+14.39	grEEngLade      SelectionEvent[]
+14.40	Floyd           Ability (1AC0) - WarpInZealot; Location: (140.03369140625, 58.55517578125, 40900)
+14.40	grEEngLade      Ability (5A0) - Attack; Location: (105.556884765625, 47.243408203125, 32708)
+14.40	Floyd           Right Click; Location: (140.134033203125, 57.065185546875, 40900)
+14.40	Floyd           Right Click; Location: (140.076904296875, 56.54931640625, 40900)
+14.40	grEEngLade      Ability (1060) - UseStimpack
+14.40	Floyd           Right Click; Location: (139.98974609375, 55.443359375, 40900)
+14.41	Floyd           Right Click; Location: (139.81005859375, 54.356201171875, 40900)
+14.41	grEEngLade      Ability (5A0) - Attack; Location: (105.9482421875, 47.495361328125, 32708)
+14.41	grEEngLade      SelectionEvent[]
+14.43	Floyd           SelectionEvent['Sentry [4580001]', 'Sentry [5240002]', 'Sentry [6240001]', 'Stalker [7480002]', 'Stalker [74C0004]', 'Archon [6FC0001]', 'Immortal [6E40001]', 'Zealot [3E00006]', 'Zealot [49C0002]', 'Zealot [5700003]', 'Zealot [658000F]', 'Zealot [69C0001]', 'Zealot [6F80009]', 'Zealot [7740001]', 'Zealot [7780001]', 'Zealot [7800001]', 'Observer [53C0004]', 'ObserverSiegeMode [60C0001]', 'ObserverSiegeMode [63C0001]']
+14.43	Floyd           Ability (5A0) - Attack; Location: (98.891357421875, 45.573486328125, 32708)
+14.44	grEEngLade      SelectionEvent['Medivac [5580001]', 'Medivac [5AC0001]', 'Medivac [5F80001]', 'Medivac [6400001]']
+14.44	grEEngLade      Right Click; Location: (95.513916015625, 52.098388671875, 32732)
+14.45	grEEngLade      Right Click; Location: (41.16162109375, 65.63525390625, 32715)
+14.45	grEEngLade      Right Click; Location: (41.017333984375, 65.87841796875, 32715)
+14.45	grEEngLade      SelectionEvent[]
+14.45	Floyd           Right Click; Location: (101.23291015625, 45.0419921875, 32708)
+14.46	grEEngLade      SelectionEvent[]
+14.46	Floyd           Right Click; Location: (83.290771484375, 57.7880859375, 40900)
+14.47	Floyd           SelectionEvent[]
+14.48	Floyd           Ability (1B40) - Blink; Location: (83.263916015625, 57.27734375, 40900)
+14.49	Floyd           SelectionEvent[]
+14.49	Floyd           Ability (5A0) - Attack; Location: (83.3173828125, 56.72314453125, 40900)
+14.50	grEEngLade      Right Click; Location: (81.061767578125, 56.215576171875, 40907)
+14.50	Floyd           Right Click; Location: (82.6611328125, 55.80908203125, 40902)
+14.51	grEEngLade      Right Click; Location: (38.978271484375, 65.508056640625, 32715)
+14.51	grEEngLade      Right Click; Location: (38.523681640625, 65.950927734375, 32715)
+14.51	grEEngLade      SelectionEvent[]
+14.52	Floyd           SelectionEvent['Nexus [5E00001]']
+14.52	Floyd           Ability (15E0) - TrainProbe
+14.54	grEEngLade      PlayerLeaveEvent
