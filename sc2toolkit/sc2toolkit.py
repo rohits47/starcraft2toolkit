@@ -18,16 +18,13 @@ class Starcraft2Toolkit:
         self.replay = None
         self.load_level = 4
 
-    def dump_vars(self):
-        """
-        return/print all our instance variables, mostly used for
-        debugging from the cli.
-        """
-        pass
-
     def load(self):
         self.replay = sc2reader.load_replay(
             self._filename, load_level=self.load_level)
+
+    def summarize(self):
+        self.load()
+        # print(self.replay)
 
 
 def main():
