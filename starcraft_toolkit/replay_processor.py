@@ -3,11 +3,7 @@ engine_toolkit_plugin
 """
 
 
-class EngineToolkitPlugin:
-    """
-    EngineToolkitPlugin
-    """
-
+class ReplayProcessor:
     def __init__(self):
         pass
 

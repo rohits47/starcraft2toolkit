@@ -11,7 +11,6 @@ class Starcraft2Toolkit:
     The main toolkit object acts as the entrypoint for most commonly
     used operations.
     """
-
     def __init__(self, filename):
         self._filename = filename
         self._replay_dir = None
@@ -19,8 +18,8 @@ class Starcraft2Toolkit:
         self.load_level = 4
 
     def load(self):
-        self.replay = sc2reader.load_replay(
-            self._filename, load_level=self.load_level)
+        self.replay = sc2reader.load_replay(self._filename,
+                                            load_level=self.load_level)
 
     def summarize(self):
         self.load()
