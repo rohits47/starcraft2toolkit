@@ -7,3 +7,6 @@
 [submodule "s2client-proto"]
 	path = s2client-proto
 	url = https://github.com/Blizzard/s2client-proto.git
+[submodule "sc2reader"]
+	path = sc2reader
+	url = https://github.com/ggtracker/sc2reader.git
