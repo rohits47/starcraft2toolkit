@@ -46,7 +46,8 @@ class Starcraft2Toolkit:
     def run(self):
         # print(self.replay)
         # print(self.replay.game_events)
-        print(dir(self.replay))
+        # print(dir(self.replay))
+        pprint(toDict()(self.replay))
 
 
 def main():
