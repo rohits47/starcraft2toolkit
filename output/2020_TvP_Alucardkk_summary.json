@@ -1,0 +1,74 @@
+{
+  "region": "us",
+  "map_name": "Submarine LE",
+  "file_time": null,
+  "filehash": "0da3702523d8b3f7cdf79273edc051e0021358e9d2aa6caeca5394df94548f02",
+  "unix_timestamp": 1593985862,
+  "date": "2020-07-05 21:51:02",
+  "utc_date": null,
+  "speed": "Faster",
+  "category": "Ladder",
+  "type": "1v1",
+  "is_ladder": true,
+  "is_private": false,
+  "filename": "my_sample_replays/2020-07-05_T_grEEngLade_VS_P_Alucardkk.SC2Replay",
+  "frames": 17046,
+  "build": 80188,
+  "release": "4.12.0.80188",
+  "game_fps": 16,
+  "game_length": 760,
+  "players": [
+    {
+      "avg_apm": null,
+      "color": {
+        "r": 180,
+        "g": 20,
+        "b": 30,
+        "a": 255,
+        "name": "Red"
+      },
+      "handicap": 100,
+      "name": "grEEngLade",
+      "pick_race": "Terran",
+      "pid": 1,
+      "play_race": "Terran",
+      "result": "Loss",
+      "type": null,
+      "uid": 0,
+      "url": "http://us.battle.net/sc2/en/profile/7594852/1/grEEngLade/",
+      "messages": []
+    },
+    {
+      "avg_apm": null,
+      "color": {
+        "r": 0,
+        "g": 66,
+        "b": 255,
+        "a": 255,
+        "name": "Blue"
+      },
+      "handicap": 100,
+      "name": "Alucardkk",
+      "pick_race": "Protoss",
+      "pid": 2,
+      "play_race": "Protoss",
+      "result": "Win",
+      "type": null,
+      "uid": 1,
+      "url": "http://us.battle.net/sc2/en/profile/1405671/1/Alucardkk/",
+      "messages": []
+    }
+  ],
+  "observers": [],
+  "real_length": 760,
+  "real_type": "1v1",
+  "time_zone": -7,
+  "versions": [
+    1,
+    4,
+    12,
+    0,
+    80188,
+    80188
+  ]
+}
