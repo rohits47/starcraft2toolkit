@@ -8,11 +8,17 @@ from pprint import pprint
 # os.environ['SC2READER_CACHE_DIR'] = "sc2reader_cache"
 # os.environ['SC2READER_CACHE_MAX_SIZE'] = "100"
 import sc2reader
+from sc2reader.factories.plugins.replay import toJSON, toDict
 
 # from sc2reader.engine.plugins import SelectionTracker, APMTracker
 # register plugins with game engine
 # sc2reader.engine.register_plugin(SelectionTracker())
 # sc2reader.engine.register_plugin(APMTracker())
+
+# DEFAULT_REPLAY_FILE = "my_sample_replays/sample_replay_TvP.SC2Replay"
+DEFAULT_REPLAY_FILE = (
+    "my_sample_replays/2020-07-05_T_grEEngLade_VS_P_Alucardkk.SC2Replay"
+)
 
 
 class Starcraft2Toolkit:
@@ -21,7 +27,7 @@ class Starcraft2Toolkit:
     used operations.
     """
 
-    def __init__(self, filename="my_sample_replays/sample_replay_TvP.SC2Replay"):
+    def __init__(self, filename=DEFAULT_REPLAY_FILE):
         self._filename = filename
         # self._replay_dir = "my_sample_replays"
         self._replay = None
