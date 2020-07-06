@@ -1,4 +1,4 @@
 #!/bin/bash
 
-# python -m starcraft_toolkit.toolkit --filename=my_sample_replays/sample_replay_TvP.SC2Replay summarize
-python -m starcraft_toolkit.toolkit summarize
+# python -m starcraft_toolkit.toolkit --filename=my_sample_replays/sample_replay_TvP.SC2Replay run
+python -m starcraft_toolkit.toolkit run
